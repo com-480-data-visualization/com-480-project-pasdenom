@@ -2,7 +2,7 @@
 
 | Student's name | SCIPER |
 | -------------- | ------ |
-| | |
+| Chevaleyre Sebastien | 281470 |
 | | |
 | | |
 
