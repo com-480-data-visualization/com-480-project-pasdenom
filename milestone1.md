@@ -15,7 +15,7 @@ Our target audience would be anyone interested in cinema, even without having co
 
 ## Exploratory data analysis
 
-The exploratory data analysis will be conducted in more details in the dedicated notebook. Here we only summarize the main insights we have found so far on the dataset.
+The exploratory data analysis will be conducted in more details in the [dedicated notebook](./data_processing.ipynb). Here we only summarize the main insights we have found so far on the dataset.
 
 ## Related work
 
