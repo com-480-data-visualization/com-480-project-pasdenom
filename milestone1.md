@@ -18,3 +18,9 @@ Our target audience would be anyone interested in cinema, even without having co
 The exploratory data analysis will be conducted in more details in the dedicated notebook. Here we only summarize the main insights we have found so far on the dataset.
 
 ## Related work
+
+In the kernel section of The Movies Dataset you can find a kernel named "The Story of Film" (https://www.kaggle.com/rounakbanik/the-story-of-film). This notebook is about a data analysis as you could find in the ADA course. Our idea is to create a nice visualization to help the user to travel around the history of the cinema. The problem with notebooks is that this support is totally non user-friendly and find a information in the middle of the whole dataset is complicated.
+
+As a first step we are going to only focus on given attributes of movies (production country, cost, role distribution, etc...) to avoid us a big mess. We fond nice visualization about cinema to motivate our choice. A visualization about dialog by gender in Disney movies can be found at https://pudding.cool/2017/03/film-dialogue/. We would like to have something similar but easily connectable to other data. A efficient visualization about film costs is shown on video at https://tdwi.org/articles/2019/10/09/bi-all-visualization-movie-series.aspx. Our goal is to put all those information together with success.
+
+To summarize, the original aspect of our idea is in not in each different visualization but in the project to create a good way to switch from one to another.
