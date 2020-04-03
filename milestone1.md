@@ -15,7 +15,14 @@ Our target audience would be anyone interested in cinema, even without having co
 
 ## Exploratory data analysis
 
-The exploratory data analysis will be conducted in more details in the [dedicated notebook](./data_processing.ipynb). Here we only summarize the main insights we have found so far on the dataset.
+The exploratory data analysis will be conducted in more details in the [dedicated notebook](./data_processing.ipynb). Here we only summarize the main insights we have found so far on the dataset:
+* the distribution of movies released each year increases linearly until 1990 where there is a huge increase (by a factor of 4)
+* most of the movies in the dataset have been produced in the US, in English
+* only 7000 movies have informations about budget and revenues
+* the popularity score is heavily skewed towards low values while the average users' vote seems normally distributed around 6
+* the only information available about the cast are the actor's gender (coded as 1 for Women, 2 for Men and 0 for Undefined)
+
+It goes without saying that this first exploratory analysis has given us multiple ideas to dive deeper into the data and create powerful visualizations to tell the Story of Cinema.
 
 ## Related work
 
