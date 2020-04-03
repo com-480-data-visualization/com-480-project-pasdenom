@@ -12,6 +12,7 @@
 
 **10% of the final grade**
 
+Please see the appropriate [Milestone 1](./milestone1.md) file and the corresponding [data_processing](./data_processing.ipynb) notebook.
 
 ## Milestone 2 (Friday 1st May, 5pm)
 
