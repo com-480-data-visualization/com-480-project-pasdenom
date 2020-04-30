@@ -1,2 +1,0 @@
-
-getTooltipContent = ƒ(d)
