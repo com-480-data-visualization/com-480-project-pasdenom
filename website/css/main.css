@@ -73,3 +73,7 @@ pre {
   float: left;
   margin-left: 30%;
 }
+
+.btn_left_pane.sub{
+  padding-left: 30px;
+}
