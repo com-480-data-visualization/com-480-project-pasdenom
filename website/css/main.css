@@ -77,3 +77,12 @@ pre {
 .btn_left_pane.sub{
   padding-left: 30px;
 }
+
+
+.side-collapse{
+  background-color: #2E2E2E;
+}
+
+.side-collapse a{
+  font-weight: bold;
+}
