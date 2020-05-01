@@ -18,10 +18,10 @@ Please see the appropriate [Milestone 1](./milestone1.md) file and the correspon
 
 **10% of the final grade**
 
+You can find the project website at [this address](https://com-480-data-visualization.github.io/com-480-project-pasdenom/website/).
 
 
 
 ## Milestone 3 (Thursday 28th May, 5pm)
 
 **80% of the final grade**
-
