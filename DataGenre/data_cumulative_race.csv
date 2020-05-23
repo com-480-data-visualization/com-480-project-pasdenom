@@ -1,0 +1,2701 @@
+date,name,value
+1874-01-01,Documentary,1
+1878-01-01,Documentary,2
+1883-01-01,Documentary,3
+1887-01-01,Documentary,4
+1888-01-01,Documentary,6
+1890-01-01,Documentary,7
+1891-01-01,Documentary,12
+1894-01-01,Documentary,22
+1895-01-01,Documentary,26
+1896-01-01,Documentary,32
+1897-01-01,Documentary,33
+1898-01-01,Documentary,34
+1900-01-01,Documentary,37
+1901-01-01,Documentary,41
+1903-01-01,Documentary,43
+1904-01-01,Documentary,44
+1905-01-01,Documentary,45
+1909-01-01,Documentary,46
+1910-01-01,Documentary,47
+1919-01-01,Documentary,48
+1922-01-01,Documentary,50
+1924-01-01,Documentary,53
+1925-01-01,Documentary,55
+1926-01-01,Documentary,60
+1927-01-01,Documentary,62
+1928-01-01,Documentary,66
+1929-01-01,Documentary,69
+1930-01-01,Documentary,72
+1931-01-01,Documentary,74
+1933-01-01,Documentary,76
+1934-01-01,Documentary,78
+1935-01-01,Documentary,79
+1936-01-01,Documentary,80
+1937-01-01,Documentary,82
+1938-01-01,Documentary,84
+1939-01-01,Documentary,85
+1940-01-01,Documentary,86
+1942-01-01,Documentary,90
+1943-01-01,Documentary,97
+1944-01-01,Documentary,102
+1945-01-01,Documentary,108
+1946-01-01,Documentary,109
+1948-01-01,Documentary,112
+1949-01-01,Documentary,113
+1950-01-01,Documentary,114
+1951-01-01,Documentary,116
+1952-01-01,Documentary,118
+1953-01-01,Documentary,123
+1954-01-01,Documentary,124
+1955-01-01,Documentary,127
+1956-01-01,Documentary,132
+1957-01-01,Documentary,137
+1958-01-01,Documentary,142
+1959-01-01,Documentary,148
+1960-01-01,Documentary,151
+1961-01-01,Documentary,155
+1962-01-01,Documentary,159
+1963-01-01,Documentary,170
+1964-01-01,Documentary,179
+1965-01-01,Documentary,187
+1966-01-01,Documentary,195
+1967-01-01,Documentary,207
+1968-01-01,Documentary,223
+1969-01-01,Documentary,233
+1970-01-01,Documentary,252
+1971-01-01,Documentary,272
+1972-01-01,Documentary,290
+1973-01-01,Documentary,302
+1974-01-01,Documentary,321
+1975-01-01,Documentary,333
+1976-01-01,Documentary,351
+1977-01-01,Documentary,368
+1978-01-01,Documentary,382
+1979-01-01,Documentary,395
+1980-01-01,Documentary,411
+1981-01-01,Documentary,426
+1982-01-01,Documentary,440
+1983-01-01,Documentary,455
+1984-01-01,Documentary,473
+1985-01-01,Documentary,492
+1986-01-01,Documentary,506
+1987-01-01,Documentary,517
+1988-01-01,Documentary,537
+1989-01-01,Documentary,549
+1990-01-01,Documentary,564
+1991-01-01,Documentary,580
+1992-01-01,Documentary,601
+1993-01-01,Documentary,616
+1994-01-01,Documentary,643
+1995-01-01,Documentary,677
+1996-01-01,Documentary,702
+1997-01-01,Documentary,740
+1998-01-01,Documentary,791
+1999-01-01,Documentary,841
+2000-01-01,Documentary,893
+2001-01-01,Documentary,958
+2002-01-01,Documentary,1034
+2003-01-01,Documentary,1121
+2004-01-01,Documentary,1224
+2005-01-01,Documentary,1336
+2006-01-01,Documentary,1476
+2007-01-01,Documentary,1633
+2008-01-01,Documentary,1819
+2009-01-01,Documentary,2038
+2010-01-01,Documentary,2252
+2011-01-01,Documentary,2491
+2012-01-01,Documentary,2764
+2013-01-01,Documentary,3053
+2014-01-01,Documentary,3366
+2015-01-01,Documentary,3658
+2016-01-01,Documentary,3853
+2017-01-01,Documentary,3921
+1892-01-01,Documentary,12
+1893-01-01,Documentary,12
+1899-01-01,Documentary,34
+1902-01-01,Documentary,41
+1906-01-01,Documentary,45
+1907-01-01,Documentary,45
+1908-01-01,Documentary,45
+1911-01-01,Documentary,47
+1912-01-01,Documentary,47
+1913-01-01,Documentary,47
+1914-01-01,Documentary,47
+1915-01-01,Documentary,47
+1916-01-01,Documentary,47
+1917-01-01,Documentary,47
+1918-01-01,Documentary,47
+1920-01-01,Documentary,48
+1921-01-01,Documentary,48
+1923-01-01,Documentary,50
+1932-01-01,Documentary,74
+1941-01-01,Documentary,86
+1947-01-01,Documentary,109
+2018-01-01,Documentary,3921
+2020-01-01,Documentary,3921
+1890-01-01,Comedy,1
+1892-01-01,Comedy,2
+1894-01-01,Comedy,3
+1895-01-01,Comedy,4
+1896-01-01,Comedy,5
+1898-01-01,Comedy,8
+1899-01-01,Comedy,10
+1900-01-01,Comedy,12
+1901-01-01,Comedy,16
+1903-01-01,Comedy,21
+1904-01-01,Comedy,23
+1905-01-01,Comedy,24
+1906-01-01,Comedy,30
+1907-01-01,Comedy,33
+1908-01-01,Comedy,36
+1909-01-01,Comedy,40
+1910-01-01,Comedy,41
+1911-01-01,Comedy,44
+1912-01-01,Comedy,46
+1914-01-01,Comedy,56
+1915-01-01,Comedy,67
+1916-01-01,Comedy,80
+1917-01-01,Comedy,89
+1918-01-01,Comedy,95
+1919-01-01,Comedy,105
+1920-01-01,Comedy,116
+1921-01-01,Comedy,133
+1922-01-01,Comedy,143
+1923-01-01,Comedy,153
+1924-01-01,Comedy,161
+1925-01-01,Comedy,176
+1926-01-01,Comedy,189
+1927-01-01,Comedy,200
+1928-01-01,Comedy,216
+1929-01-01,Comedy,234
+1930-01-01,Comedy,269
+1931-01-01,Comedy,298
+1932-01-01,Comedy,338
+1933-01-01,Comedy,382
+1934-01-01,Comedy,426
+1935-01-01,Comedy,483
+1936-01-01,Comedy,537
+1937-01-01,Comedy,590
+1938-01-01,Comedy,641
+1939-01-01,Comedy,680
+1940-01-01,Comedy,733
+1941-01-01,Comedy,802
+1942-01-01,Comedy,849
+1943-01-01,Comedy,886
+1944-01-01,Comedy,924
+1945-01-01,Comedy,962
+1946-01-01,Comedy,981
+1947-01-01,Comedy,1017
+1948-01-01,Comedy,1053
+1949-01-01,Comedy,1089
+1950-01-01,Comedy,1129
+1951-01-01,Comedy,1179
+1952-01-01,Comedy,1233
+1953-01-01,Comedy,1277
+1954-01-01,Comedy,1323
+1955-01-01,Comedy,1374
+1956-01-01,Comedy,1420
+1957-01-01,Comedy,1469
+1958-01-01,Comedy,1507
+1959-01-01,Comedy,1552
+1960-01-01,Comedy,1599
+1961-01-01,Comedy,1650
+1962-01-01,Comedy,1711
+1963-01-01,Comedy,1786
+1964-01-01,Comedy,1864
+1965-01-01,Comedy,1932
+1966-01-01,Comedy,2021
+1967-01-01,Comedy,2109
+1968-01-01,Comedy,2194
+1969-01-01,Comedy,2275
+1970-01-01,Comedy,2361
+1971-01-01,Comedy,2449
+1972-01-01,Comedy,2541
+1973-01-01,Comedy,2613
+1974-01-01,Comedy,2686
+1975-01-01,Comedy,2771
+1976-01-01,Comedy,2852
+1977-01-01,Comedy,2932
+1978-01-01,Comedy,3017
+1979-01-01,Comedy,3114
+1980-01-01,Comedy,3222
+1981-01-01,Comedy,3326
+1982-01-01,Comedy,3449
+1983-01-01,Comedy,3562
+1984-01-01,Comedy,3684
+1985-01-01,Comedy,3823
+1986-01-01,Comedy,3947
+1987-01-01,Comedy,4101
+1988-01-01,Comedy,4253
+1989-01-01,Comedy,4411
+1990-01-01,Comedy,4551
+1991-01-01,Comedy,4701
+1992-01-01,Comedy,4862
+1993-01-01,Comedy,5016
+1994-01-01,Comedy,5202
+1995-01-01,Comedy,5373
+1996-01-01,Comedy,5592
+1997-01-01,Comedy,5798
+1998-01-01,Comedy,6026
+1999-01-01,Comedy,6264
+2000-01-01,Comedy,6524
+2001-01-01,Comedy,6794
+2002-01-01,Comedy,7064
+2003-01-01,Comedy,7361
+2004-01-01,Comedy,7668
+2005-01-01,Comedy,8015
+2006-01-01,Comedy,8392
+2007-01-01,Comedy,8763
+2008-01-01,Comedy,9173
+2009-01-01,Comedy,9644
+2010-01-01,Comedy,10077
+2011-01-01,Comedy,10549
+2012-01-01,Comedy,10989
+2013-01-01,Comedy,11466
+2014-01-01,Comedy,12008
+2015-01-01,Comedy,12528
+2016-01-01,Comedy,13007
+2017-01-01,Comedy,13179
+2018-01-01,Comedy,13181
+1874-01-01,Comedy,0
+1878-01-01,Comedy,0
+1883-01-01,Comedy,0
+1887-01-01,Comedy,0
+1888-01-01,Comedy,0
+1891-01-01,Comedy,1
+1893-01-01,Comedy,2
+1897-01-01,Comedy,5
+1902-01-01,Comedy,16
+1913-01-01,Comedy,46
+2020-01-01,Comedy,13181
+1891-01-01,Action,1
+1897-01-01,Action,2
+1900-01-01,Action,3
+1903-01-01,Action,5
+1906-01-01,Action,6
+1909-01-01,Action,7
+1913-01-01,Action,9
+1915-01-01,Action,10
+1916-01-01,Action,11
+1917-01-01,Action,12
+1919-01-01,Action,13
+1920-01-01,Action,16
+1921-01-01,Action,19
+1922-01-01,Action,20
+1924-01-01,Action,23
+1925-01-01,Action,24
+1926-01-01,Action,30
+1927-01-01,Action,32
+1928-01-01,Action,37
+1929-01-01,Action,40
+1930-01-01,Action,44
+1931-01-01,Action,55
+1932-01-01,Action,64
+1933-01-01,Action,81
+1934-01-01,Action,95
+1935-01-01,Action,110
+1936-01-01,Action,118
+1937-01-01,Action,131
+1938-01-01,Action,140
+1939-01-01,Action,152
+1940-01-01,Action,169
+1941-01-01,Action,176
+1942-01-01,Action,194
+1943-01-01,Action,211
+1944-01-01,Action,219
+1945-01-01,Action,232
+1946-01-01,Action,238
+1947-01-01,Action,245
+1948-01-01,Action,265
+1949-01-01,Action,276
+1950-01-01,Action,292
+1951-01-01,Action,316
+1952-01-01,Action,341
+1953-01-01,Action,363
+1954-01-01,Action,387
+1955-01-01,Action,414
+1956-01-01,Action,445
+1957-01-01,Action,466
+1958-01-01,Action,497
+1959-01-01,Action,524
+1960-01-01,Action,548
+1961-01-01,Action,565
+1962-01-01,Action,599
+1963-01-01,Action,621
+1964-01-01,Action,650
+1965-01-01,Action,684
+1966-01-01,Action,748
+1967-01-01,Action,792
+1968-01-01,Action,847
+1969-01-01,Action,896
+1970-01-01,Action,951
+1971-01-01,Action,1004
+1972-01-01,Action,1065
+1973-01-01,Action,1140
+1974-01-01,Action,1218
+1975-01-01,Action,1282
+1976-01-01,Action,1358
+1977-01-01,Action,1421
+1978-01-01,Action,1490
+1979-01-01,Action,1547
+1980-01-01,Action,1609
+1981-01-01,Action,1658
+1982-01-01,Action,1718
+1983-01-01,Action,1788
+1984-01-01,Action,1852
+1985-01-01,Action,1925
+1986-01-01,Action,2002
+1987-01-01,Action,2090
+1988-01-01,Action,2172
+1989-01-01,Action,2260
+1990-01-01,Action,2339
+1991-01-01,Action,2429
+1992-01-01,Action,2508
+1993-01-01,Action,2617
+1994-01-01,Action,2726
+1995-01-01,Action,2847
+1996-01-01,Action,2940
+1997-01-01,Action,3052
+1998-01-01,Action,3155
+1999-01-01,Action,3255
+2000-01-01,Action,3364
+2001-01-01,Action,3514
+2002-01-01,Action,3675
+2003-01-01,Action,3825
+2004-01-01,Action,3980
+2005-01-01,Action,4136
+2006-01-01,Action,4309
+2007-01-01,Action,4498
+2008-01-01,Action,4731
+2009-01-01,Action,4975
+2010-01-01,Action,5196
+2011-01-01,Action,5435
+2012-01-01,Action,5625
+2013-01-01,Action,5833
+2014-01-01,Action,6067
+2015-01-01,Action,6292
+2016-01-01,Action,6497
+2017-01-01,Action,6589
+2018-01-01,Action,6591
+2020-01-01,Action,6592
+1874-01-01,Action,0
+1878-01-01,Action,0
+1883-01-01,Action,0
+1887-01-01,Action,0
+1888-01-01,Action,0
+1890-01-01,Action,0
+1892-01-01,Action,1
+1893-01-01,Action,1
+1894-01-01,Action,1
+1895-01-01,Action,1
+1896-01-01,Action,1
+1898-01-01,Action,2
+1899-01-01,Action,2
+1901-01-01,Action,3
+1902-01-01,Action,3
+1904-01-01,Action,5
+1905-01-01,Action,5
+1907-01-01,Action,6
+1908-01-01,Action,6
+1910-01-01,Action,7
+1911-01-01,Action,7
+1912-01-01,Action,7
+1914-01-01,Action,9
+1918-01-01,Action,12
+1923-01-01,Action,20
+1892-01-01,Animation,1
+1906-01-01,Animation,2
+1908-01-01,Animation,4
+1911-01-01,Animation,5
+1912-01-01,Animation,6
+1914-01-01,Animation,7
+1915-01-01,Animation,9
+1916-01-01,Animation,10
+1921-01-01,Animation,11
+1922-01-01,Animation,12
+1923-01-01,Animation,13
+1924-01-01,Animation,15
+1925-01-01,Animation,16
+1926-01-01,Animation,17
+1928-01-01,Animation,19
+1929-01-01,Animation,22
+1930-01-01,Animation,23
+1931-01-01,Animation,27
+1932-01-01,Animation,31
+1933-01-01,Animation,40
+1934-01-01,Animation,44
+1935-01-01,Animation,51
+1936-01-01,Animation,57
+1937-01-01,Animation,65
+1938-01-01,Animation,69
+1939-01-01,Animation,71
+1940-01-01,Animation,74
+1941-01-01,Animation,80
+1942-01-01,Animation,88
+1943-01-01,Animation,92
+1944-01-01,Animation,98
+1945-01-01,Animation,102
+1946-01-01,Animation,105
+1947-01-01,Animation,109
+1948-01-01,Animation,112
+1949-01-01,Animation,119
+1950-01-01,Animation,121
+1951-01-01,Animation,125
+1952-01-01,Animation,133
+1953-01-01,Animation,137
+1954-01-01,Animation,140
+1955-01-01,Animation,142
+1956-01-01,Animation,145
+1957-01-01,Animation,150
+1959-01-01,Animation,155
+1960-01-01,Animation,156
+1961-01-01,Animation,159
+1962-01-01,Animation,164
+1963-01-01,Animation,165
+1964-01-01,Animation,172
+1965-01-01,Animation,177
+1966-01-01,Animation,185
+1967-01-01,Animation,191
+1968-01-01,Animation,203
+1969-01-01,Animation,212
+1970-01-01,Animation,220
+1971-01-01,Animation,228
+1972-01-01,Animation,234
+1973-01-01,Animation,245
+1974-01-01,Animation,257
+1975-01-01,Animation,262
+1976-01-01,Animation,267
+1977-01-01,Animation,284
+1978-01-01,Animation,293
+1979-01-01,Animation,304
+1980-01-01,Animation,312
+1981-01-01,Animation,329
+1982-01-01,Animation,347
+1983-01-01,Animation,362
+1984-01-01,Animation,374
+1985-01-01,Animation,396
+1986-01-01,Animation,421
+1987-01-01,Animation,449
+1988-01-01,Animation,471
+1989-01-01,Animation,493
+1990-01-01,Animation,511
+1991-01-01,Animation,524
+1992-01-01,Animation,550
+1993-01-01,Animation,570
+1994-01-01,Animation,597
+1995-01-01,Animation,625
+1996-01-01,Animation,647
+1997-01-01,Animation,681
+1998-01-01,Animation,714
+1999-01-01,Animation,749
+2000-01-01,Animation,793
+2001-01-01,Animation,835
+2002-01-01,Animation,885
+2003-01-01,Animation,932
+2004-01-01,Animation,979
+2005-01-01,Animation,1027
+2006-01-01,Animation,1101
+2007-01-01,Animation,1172
+2008-01-01,Animation,1251
+2009-01-01,Animation,1328
+2010-01-01,Animation,1410
+2011-01-01,Animation,1500
+2012-01-01,Animation,1582
+2013-01-01,Animation,1679
+2014-01-01,Animation,1751
+2015-01-01,Animation,1832
+2016-01-01,Animation,1905
+2017-01-01,Animation,1932
+1874-01-01,Animation,0
+1878-01-01,Animation,0
+1883-01-01,Animation,0
+1887-01-01,Animation,0
+1888-01-01,Animation,0
+1890-01-01,Animation,0
+1891-01-01,Animation,0
+1893-01-01,Animation,1
+1894-01-01,Animation,1
+1895-01-01,Animation,1
+1896-01-01,Animation,1
+1897-01-01,Animation,1
+1898-01-01,Animation,1
+1899-01-01,Animation,1
+1900-01-01,Animation,1
+1901-01-01,Animation,1
+1902-01-01,Animation,1
+1903-01-01,Animation,1
+1904-01-01,Animation,1
+1905-01-01,Animation,1
+1907-01-01,Animation,2
+1909-01-01,Animation,4
+1910-01-01,Animation,4
+1913-01-01,Animation,6
+1917-01-01,Animation,10
+1918-01-01,Animation,10
+1919-01-01,Animation,10
+1920-01-01,Animation,10
+1927-01-01,Animation,17
+1958-01-01,Animation,150
+2018-01-01,Animation,1932
+2020-01-01,Animation,1932
+1893-01-01,Drama,1
+1896-01-01,Drama,2
+1897-01-01,Drama,3
+1898-01-01,Drama,4
+1900-01-01,Drama,5
+1901-01-01,Drama,6
+1903-01-01,Drama,7
+1905-01-01,Drama,8
+1906-01-01,Drama,9
+1909-01-01,Drama,13
+1910-01-01,Drama,16
+1911-01-01,Drama,17
+1912-01-01,Drama,23
+1913-01-01,Drama,31
+1914-01-01,Drama,40
+1915-01-01,Drama,54
+1916-01-01,Drama,64
+1917-01-01,Drama,71
+1918-01-01,Drama,82
+1919-01-01,Drama,94
+1920-01-01,Drama,110
+1921-01-01,Drama,128
+1922-01-01,Drama,140
+1923-01-01,Drama,154
+1924-01-01,Drama,175
+1925-01-01,Drama,198
+1926-01-01,Drama,229
+1927-01-01,Drama,259
+1928-01-01,Drama,304
+1929-01-01,Drama,351
+1930-01-01,Drama,398
+1931-01-01,Drama,467
+1932-01-01,Drama,549
+1933-01-01,Drama,626
+1934-01-01,Drama,701
+1935-01-01,Drama,770
+1936-01-01,Drama,841
+1937-01-01,Drama,924
+1938-01-01,Drama,986
+1939-01-01,Drama,1058
+1940-01-01,Drama,1139
+1941-01-01,Drama,1203
+1942-01-01,Drama,1272
+1943-01-01,Drama,1336
+1944-01-01,Drama,1408
+1945-01-01,Drama,1479
+1946-01-01,Drama,1559
+1947-01-01,Drama,1644
+1948-01-01,Drama,1742
+1949-01-01,Drama,1839
+1950-01-01,Drama,1932
+1951-01-01,Drama,2036
+1952-01-01,Drama,2141
+1953-01-01,Drama,2242
+1954-01-01,Drama,2334
+1955-01-01,Drama,2451
+1956-01-01,Drama,2568
+1957-01-01,Drama,2689
+1958-01-01,Drama,2788
+1959-01-01,Drama,2904
+1960-01-01,Drama,3021
+1961-01-01,Drama,3123
+1962-01-01,Drama,3255
+1963-01-01,Drama,3356
+1964-01-01,Drama,3467
+1965-01-01,Drama,3590
+1966-01-01,Drama,3704
+1967-01-01,Drama,3824
+1968-01-01,Drama,3962
+1969-01-01,Drama,4116
+1970-01-01,Drama,4297
+1971-01-01,Drama,4448
+1972-01-01,Drama,4612
+1973-01-01,Drama,4766
+1974-01-01,Drama,4922
+1975-01-01,Drama,5071
+1976-01-01,Drama,5205
+1977-01-01,Drama,5342
+1978-01-01,Drama,5481
+1979-01-01,Drama,5624
+1980-01-01,Drama,5762
+1981-01-01,Drama,5902
+1982-01-01,Drama,6041
+1983-01-01,Drama,6186
+1984-01-01,Drama,6343
+1985-01-01,Drama,6478
+1986-01-01,Drama,6629
+1987-01-01,Drama,6807
+1988-01-01,Drama,7000
+1989-01-01,Drama,7177
+1990-01-01,Drama,7359
+1991-01-01,Drama,7538
+1992-01-01,Drama,7740
+1993-01-01,Drama,7979
+1994-01-01,Drama,8214
+1995-01-01,Drama,8489
+1996-01-01,Drama,8816
+1997-01-01,Drama,9117
+1998-01-01,Drama,9454
+1999-01-01,Drama,9790
+2000-01-01,Drama,10184
+2001-01-01,Drama,10592
+2002-01-01,Drama,11048
+2003-01-01,Drama,11443
+2004-01-01,Drama,11937
+2005-01-01,Drama,12500
+2006-01-01,Drama,13096
+2007-01-01,Drama,13716
+2008-01-01,Drama,14371
+2009-01-01,Drama,15072
+2010-01-01,Drama,15717
+2011-01-01,Drama,16430
+2012-01-01,Drama,17081
+2013-01-01,Drama,17842
+2014-01-01,Drama,18628
+2015-01-01,Drama,19398
+2016-01-01,Drama,20047
+2017-01-01,Drama,20252
+2018-01-01,Drama,20255
+1874-01-01,Drama,0
+1878-01-01,Drama,0
+1883-01-01,Drama,0
+1887-01-01,Drama,0
+1888-01-01,Drama,0
+1890-01-01,Drama,0
+1891-01-01,Drama,0
+1892-01-01,Drama,0
+1894-01-01,Drama,1
+1895-01-01,Drama,1
+1899-01-01,Drama,4
+1902-01-01,Drama,6
+1904-01-01,Drama,7
+1907-01-01,Drama,9
+1908-01-01,Drama,9
+2020-01-01,Drama,20255
+1895-01-01,History,1
+1897-01-01,History,2
+1906-01-01,History,3
+1912-01-01,History,4
+1914-01-01,History,6
+1915-01-01,History,8
+1918-01-01,History,9
+1919-01-01,History,10
+1920-01-01,History,11
+1921-01-01,History,12
+1922-01-01,History,13
+1924-01-01,History,14
+1925-01-01,History,15
+1926-01-01,History,16
+1927-01-01,History,21
+1928-01-01,History,23
+1929-01-01,History,26
+1930-01-01,History,28
+1931-01-01,History,29
+1932-01-01,History,33
+1933-01-01,History,36
+1934-01-01,History,41
+1935-01-01,History,48
+1936-01-01,History,58
+1937-01-01,History,68
+1938-01-01,History,73
+1939-01-01,History,85
+1940-01-01,History,94
+1941-01-01,History,97
+1942-01-01,History,102
+1943-01-01,History,110
+1944-01-01,History,116
+1945-01-01,History,122
+1946-01-01,History,126
+1947-01-01,History,128
+1948-01-01,History,132
+1949-01-01,History,135
+1950-01-01,History,139
+1951-01-01,History,143
+1952-01-01,History,149
+1953-01-01,History,157
+1954-01-01,History,165
+1955-01-01,History,174
+1956-01-01,History,184
+1957-01-01,History,193
+1958-01-01,History,203
+1959-01-01,History,211
+1960-01-01,History,225
+1961-01-01,History,234
+1962-01-01,History,253
+1963-01-01,History,263
+1964-01-01,History,275
+1965-01-01,History,288
+1966-01-01,History,301
+1967-01-01,History,312
+1968-01-01,History,319
+1969-01-01,History,331
+1970-01-01,History,345
+1971-01-01,History,357
+1972-01-01,History,369
+1973-01-01,History,377
+1974-01-01,History,387
+1975-01-01,History,403
+1976-01-01,History,414
+1977-01-01,History,423
+1978-01-01,History,433
+1979-01-01,History,447
+1980-01-01,History,460
+1981-01-01,History,471
+1982-01-01,History,482
+1983-01-01,History,489
+1984-01-01,History,499
+1985-01-01,History,509
+1986-01-01,History,522
+1987-01-01,History,529
+1988-01-01,History,537
+1989-01-01,History,550
+1990-01-01,History,562
+1991-01-01,History,570
+1992-01-01,History,583
+1993-01-01,History,599
+1994-01-01,History,610
+1995-01-01,History,628
+1996-01-01,History,645
+1997-01-01,History,667
+1998-01-01,History,684
+1999-01-01,History,703
+2000-01-01,History,725
+2001-01-01,History,749
+2002-01-01,History,772
+2003-01-01,History,793
+2004-01-01,History,819
+2005-01-01,History,847
+2006-01-01,History,890
+2007-01-01,History,927
+2008-01-01,History,974
+2009-01-01,History,1019
+2010-01-01,History,1064
+2011-01-01,History,1104
+2012-01-01,History,1156
+2013-01-01,History,1210
+2014-01-01,History,1269
+2015-01-01,History,1333
+2016-01-01,History,1382
+2017-01-01,History,1397
+1874-01-01,History,0
+1878-01-01,History,0
+1883-01-01,History,0
+1887-01-01,History,0
+1888-01-01,History,0
+1890-01-01,History,0
+1891-01-01,History,0
+1892-01-01,History,0
+1893-01-01,History,0
+1894-01-01,History,0
+1896-01-01,History,1
+1898-01-01,History,2
+1899-01-01,History,2
+1900-01-01,History,2
+1901-01-01,History,2
+1902-01-01,History,2
+1903-01-01,History,2
+1904-01-01,History,2
+1905-01-01,History,2
+1907-01-01,History,3
+1908-01-01,History,3
+1909-01-01,History,3
+1910-01-01,History,3
+1911-01-01,History,3
+1913-01-01,History,4
+1916-01-01,History,8
+1917-01-01,History,8
+1923-01-01,History,13
+2018-01-01,History,1397
+2020-01-01,History,1397
+1896-01-01,Fantasy,1
+1897-01-01,Fantasy,2
+1898-01-01,Fantasy,9
+1899-01-01,Fantasy,12
+1900-01-01,Fantasy,14
+1901-01-01,Fantasy,16
+1902-01-01,Fantasy,18
+1903-01-01,Fantasy,27
+1904-01-01,Fantasy,29
+1905-01-01,Fantasy,31
+1906-01-01,Fantasy,35
+1907-01-01,Fantasy,38
+1908-01-01,Fantasy,39
+1909-01-01,Fantasy,42
+1910-01-01,Fantasy,44
+1911-01-01,Fantasy,46
+1912-01-01,Fantasy,47
+1914-01-01,Fantasy,48
+1915-01-01,Fantasy,50
+1916-01-01,Fantasy,51
+1917-01-01,Fantasy,52
+1918-01-01,Fantasy,53
+1919-01-01,Fantasy,54
+1921-01-01,Fantasy,57
+1922-01-01,Fantasy,60
+1923-01-01,Fantasy,63
+1924-01-01,Fantasy,70
+1925-01-01,Fantasy,72
+1926-01-01,Fantasy,75
+1928-01-01,Fantasy,77
+1929-01-01,Fantasy,78
+1930-01-01,Fantasy,79
+1932-01-01,Fantasy,83
+1933-01-01,Fantasy,87
+1934-01-01,Fantasy,91
+1935-01-01,Fantasy,98
+1936-01-01,Fantasy,101
+1937-01-01,Fantasy,107
+1938-01-01,Fantasy,109
+1939-01-01,Fantasy,113
+1940-01-01,Fantasy,118
+1941-01-01,Fantasy,126
+1942-01-01,Fantasy,134
+1943-01-01,Fantasy,141
+1944-01-01,Fantasy,149
+1945-01-01,Fantasy,155
+1946-01-01,Fantasy,160
+1947-01-01,Fantasy,165
+1948-01-01,Fantasy,171
+1949-01-01,Fantasy,178
+1950-01-01,Fantasy,181
+1951-01-01,Fantasy,190
+1952-01-01,Fantasy,198
+1953-01-01,Fantasy,204
+1954-01-01,Fantasy,207
+1955-01-01,Fantasy,212
+1956-01-01,Fantasy,220
+1957-01-01,Fantasy,231
+1958-01-01,Fantasy,239
+1959-01-01,Fantasy,250
+1960-01-01,Fantasy,263
+1961-01-01,Fantasy,275
+1962-01-01,Fantasy,285
+1963-01-01,Fantasy,293
+1964-01-01,Fantasy,310
+1965-01-01,Fantasy,317
+1966-01-01,Fantasy,327
+1967-01-01,Fantasy,338
+1968-01-01,Fantasy,354
+1969-01-01,Fantasy,366
+1970-01-01,Fantasy,379
+1971-01-01,Fantasy,391
+1972-01-01,Fantasy,403
+1973-01-01,Fantasy,419
+1974-01-01,Fantasy,433
+1975-01-01,Fantasy,447
+1976-01-01,Fantasy,463
+1977-01-01,Fantasy,486
+1978-01-01,Fantasy,502
+1979-01-01,Fantasy,513
+1980-01-01,Fantasy,539
+1981-01-01,Fantasy,553
+1982-01-01,Fantasy,580
+1983-01-01,Fantasy,615
+1984-01-01,Fantasy,646
+1985-01-01,Fantasy,680
+1986-01-01,Fantasy,705
+1987-01-01,Fantasy,748
+1988-01-01,Fantasy,787
+1989-01-01,Fantasy,820
+1990-01-01,Fantasy,846
+1991-01-01,Fantasy,877
+1992-01-01,Fantasy,907
+1993-01-01,Fantasy,937
+1994-01-01,Fantasy,974
+1995-01-01,Fantasy,1012
+1996-01-01,Fantasy,1046
+1997-01-01,Fantasy,1095
+1998-01-01,Fantasy,1139
+1999-01-01,Fantasy,1182
+2000-01-01,Fantasy,1221
+2001-01-01,Fantasy,1272
+2002-01-01,Fantasy,1319
+2003-01-01,Fantasy,1353
+2004-01-01,Fantasy,1398
+2005-01-01,Fantasy,1460
+2006-01-01,Fantasy,1532
+2007-01-01,Fantasy,1595
+2008-01-01,Fantasy,1668
+2009-01-01,Fantasy,1751
+2010-01-01,Fantasy,1825
+2011-01-01,Fantasy,1908
+2012-01-01,Fantasy,1977
+2013-01-01,Fantasy,2055
+2014-01-01,Fantasy,2129
+2015-01-01,Fantasy,2218
+2016-01-01,Fantasy,2283
+2017-01-01,Fantasy,2311
+2018-01-01,Fantasy,2312
+2020-01-01,Fantasy,2313
+1874-01-01,Fantasy,0
+1878-01-01,Fantasy,0
+1883-01-01,Fantasy,0
+1887-01-01,Fantasy,0
+1888-01-01,Fantasy,0
+1890-01-01,Fantasy,0
+1891-01-01,Fantasy,0
+1892-01-01,Fantasy,0
+1893-01-01,Fantasy,0
+1894-01-01,Fantasy,0
+1895-01-01,Fantasy,0
+1913-01-01,Fantasy,47
+1920-01-01,Fantasy,54
+1927-01-01,Fantasy,75
+1931-01-01,Fantasy,79
+1896-01-01,Horror,3
+1897-01-01,Horror,4
+1899-01-01,Horror,6
+1901-01-01,Horror,7
+1903-01-01,Horror,10
+1906-01-01,Horror,11
+1907-01-01,Horror,12
+1908-01-01,Horror,13
+1909-01-01,Horror,15
+1910-01-01,Horror,16
+1913-01-01,Horror,17
+1914-01-01,Horror,18
+1916-01-01,Horror,19
+1919-01-01,Horror,20
+1920-01-01,Horror,24
+1921-01-01,Horror,27
+1922-01-01,Horror,29
+1923-01-01,Horror,32
+1924-01-01,Horror,34
+1925-01-01,Horror,36
+1926-01-01,Horror,41
+1927-01-01,Horror,44
+1928-01-01,Horror,48
+1931-01-01,Horror,53
+1932-01-01,Horror,67
+1933-01-01,Horror,78
+1934-01-01,Horror,81
+1935-01-01,Horror,90
+1936-01-01,Horror,97
+1938-01-01,Horror,98
+1939-01-01,Horror,105
+1940-01-01,Horror,113
+1941-01-01,Horror,122
+1942-01-01,Horror,131
+1943-01-01,Horror,142
+1944-01-01,Horror,150
+1945-01-01,Horror,158
+1946-01-01,Horror,166
+1948-01-01,Horror,169
+1949-01-01,Horror,173
+1950-01-01,Horror,174
+1951-01-01,Horror,178
+1952-01-01,Horror,181
+1953-01-01,Horror,189
+1954-01-01,Horror,198
+1955-01-01,Horror,210
+1956-01-01,Horror,225
+1957-01-01,Horror,249
+1958-01-01,Horror,281
+1959-01-01,Horror,307
+1960-01-01,Horror,327
+1961-01-01,Horror,345
+1962-01-01,Horror,361
+1963-01-01,Horror,385
+1964-01-01,Horror,413
+1965-01-01,Horror,433
+1966-01-01,Horror,460
+1967-01-01,Horror,487
+1968-01-01,Horror,515
+1969-01-01,Horror,532
+1970-01-01,Horror,570
+1971-01-01,Horror,637
+1972-01-01,Horror,705
+1973-01-01,Horror,772
+1974-01-01,Horror,822
+1975-01-01,Horror,860
+1976-01-01,Horror,901
+1977-01-01,Horror,946
+1978-01-01,Horror,994
+1979-01-01,Horror,1031
+1980-01-01,Horror,1093
+1981-01-01,Horror,1171
+1982-01-01,Horror,1232
+1983-01-01,Horror,1279
+1984-01-01,Horror,1328
+1985-01-01,Horror,1375
+1986-01-01,Horror,1430
+1987-01-01,Horror,1499
+1988-01-01,Horror,1590
+1989-01-01,Horror,1674
+1990-01-01,Horror,1749
+1991-01-01,Horror,1794
+1992-01-01,Horror,1836
+1993-01-01,Horror,1878
+1994-01-01,Horror,1914
+1995-01-01,Horror,1962
+1996-01-01,Horror,2002
+1997-01-01,Horror,2039
+1998-01-01,Horror,2085
+1999-01-01,Horror,2139
+2000-01-01,Horror,2205
+2001-01-01,Horror,2269
+2002-01-01,Horror,2337
+2003-01-01,Horror,2408
+2004-01-01,Horror,2504
+2005-01-01,Horror,2617
+2006-01-01,Horror,2767
+2007-01-01,Horror,2936
+2008-01-01,Horror,3116
+2009-01-01,Horror,3300
+2010-01-01,Horror,3474
+2011-01-01,Horror,3638
+2012-01-01,Horror,3818
+2013-01-01,Horror,4000
+2014-01-01,Horror,4210
+2015-01-01,Horror,4450
+2016-01-01,Horror,4624
+2017-01-01,Horror,4670
+1874-01-01,Horror,0
+1878-01-01,Horror,0
+1883-01-01,Horror,0
+1887-01-01,Horror,0
+1888-01-01,Horror,0
+1890-01-01,Horror,0
+1891-01-01,Horror,0
+1892-01-01,Horror,0
+1893-01-01,Horror,0
+1894-01-01,Horror,0
+1895-01-01,Horror,0
+1898-01-01,Horror,4
+1900-01-01,Horror,6
+1902-01-01,Horror,7
+1904-01-01,Horror,10
+1905-01-01,Horror,10
+1911-01-01,Horror,16
+1912-01-01,Horror,16
+1915-01-01,Horror,18
+1917-01-01,Horror,19
+1918-01-01,Horror,19
+1929-01-01,Horror,48
+1930-01-01,Horror,48
+1937-01-01,Horror,97
+1947-01-01,Horror,166
+2018-01-01,Horror,4670
+2020-01-01,Horror,4670
+1896-01-01,Romance,1
+1900-01-01,Romance,3
+1914-01-01,Romance,4
+1915-01-01,Romance,7
+1916-01-01,Romance,10
+1917-01-01,Romance,11
+1918-01-01,Romance,13
+1919-01-01,Romance,16
+1920-01-01,Romance,22
+1921-01-01,Romance,27
+1922-01-01,Romance,32
+1923-01-01,Romance,38
+1924-01-01,Romance,42
+1925-01-01,Romance,52
+1926-01-01,Romance,68
+1927-01-01,Romance,84
+1928-01-01,Romance,99
+1929-01-01,Romance,117
+1930-01-01,Romance,145
+1931-01-01,Romance,177
+1932-01-01,Romance,214
+1933-01-01,Romance,258
+1934-01-01,Romance,301
+1935-01-01,Romance,348
+1936-01-01,Romance,390
+1937-01-01,Romance,443
+1938-01-01,Romance,484
+1939-01-01,Romance,523
+1940-01-01,Romance,566
+1941-01-01,Romance,620
+1942-01-01,Romance,663
+1943-01-01,Romance,704
+1944-01-01,Romance,731
+1945-01-01,Romance,766
+1946-01-01,Romance,796
+1947-01-01,Romance,832
+1948-01-01,Romance,870
+1949-01-01,Romance,901
+1950-01-01,Romance,935
+1951-01-01,Romance,969
+1952-01-01,Romance,1010
+1953-01-01,Romance,1052
+1954-01-01,Romance,1096
+1955-01-01,Romance,1146
+1956-01-01,Romance,1187
+1957-01-01,Romance,1230
+1958-01-01,Romance,1267
+1959-01-01,Romance,1300
+1960-01-01,Romance,1343
+1961-01-01,Romance,1378
+1962-01-01,Romance,1406
+1963-01-01,Romance,1449
+1964-01-01,Romance,1489
+1965-01-01,Romance,1525
+1966-01-01,Romance,1560
+1967-01-01,Romance,1605
+1968-01-01,Romance,1643
+1969-01-01,Romance,1679
+1970-01-01,Romance,1719
+1971-01-01,Romance,1749
+1972-01-01,Romance,1771
+1973-01-01,Romance,1795
+1974-01-01,Romance,1820
+1975-01-01,Romance,1856
+1976-01-01,Romance,1876
+1977-01-01,Romance,1902
+1978-01-01,Romance,1941
+1979-01-01,Romance,1981
+1980-01-01,Romance,2024
+1981-01-01,Romance,2068
+1982-01-01,Romance,2108
+1983-01-01,Romance,2160
+1984-01-01,Romance,2215
+1985-01-01,Romance,2276
+1986-01-01,Romance,2331
+1987-01-01,Romance,2392
+1988-01-01,Romance,2461
+1989-01-01,Romance,2523
+1990-01-01,Romance,2587
+1991-01-01,Romance,2659
+1992-01-01,Romance,2728
+1993-01-01,Romance,2805
+1994-01-01,Romance,2895
+1995-01-01,Romance,2995
+1996-01-01,Romance,3115
+1997-01-01,Romance,3241
+1998-01-01,Romance,3381
+1999-01-01,Romance,3518
+2000-01-01,Romance,3673
+2001-01-01,Romance,3835
+2002-01-01,Romance,3988
+2003-01-01,Romance,4126
+2004-01-01,Romance,4293
+2005-01-01,Romance,4482
+2006-01-01,Romance,4682
+2007-01-01,Romance,4879
+2008-01-01,Romance,5069
+2009-01-01,Romance,5285
+2010-01-01,Romance,5497
+2011-01-01,Romance,5695
+2012-01-01,Romance,5889
+2013-01-01,Romance,6073
+2014-01-01,Romance,6296
+2015-01-01,Romance,6492
+2016-01-01,Romance,6678
+2017-01-01,Romance,6732
+2018-01-01,Romance,6733
+1874-01-01,Romance,0
+1878-01-01,Romance,0
+1883-01-01,Romance,0
+1887-01-01,Romance,0
+1888-01-01,Romance,0
+1890-01-01,Romance,0
+1891-01-01,Romance,0
+1892-01-01,Romance,0
+1893-01-01,Romance,0
+1894-01-01,Romance,0
+1895-01-01,Romance,0
+1897-01-01,Romance,1
+1898-01-01,Romance,1
+1899-01-01,Romance,1
+1901-01-01,Romance,3
+1902-01-01,Romance,3
+1903-01-01,Romance,3
+1904-01-01,Romance,3
+1905-01-01,Romance,3
+1906-01-01,Romance,3
+1907-01-01,Romance,3
+1908-01-01,Romance,3
+1909-01-01,Romance,3
+1910-01-01,Romance,3
+1911-01-01,Romance,3
+1912-01-01,Romance,3
+1913-01-01,Romance,3
+2020-01-01,Romance,6733
+1897-01-01,War,1
+1910-01-01,War,2
+1915-01-01,War,6
+1918-01-01,War,7
+1919-01-01,War,8
+1921-01-01,War,9
+1925-01-01,War,11
+1926-01-01,War,13
+1927-01-01,War,16
+1928-01-01,War,18
+1929-01-01,War,21
+1930-01-01,War,25
+1931-01-01,War,29
+1932-01-01,War,34
+1933-01-01,War,38
+1934-01-01,War,43
+1935-01-01,War,45
+1936-01-01,War,50
+1937-01-01,War,58
+1938-01-01,War,65
+1939-01-01,War,74
+1940-01-01,War,82
+1941-01-01,War,93
+1942-01-01,War,119
+1943-01-01,War,153
+1944-01-01,War,179
+1945-01-01,War,198
+1946-01-01,War,206
+1947-01-01,War,208
+1948-01-01,War,214
+1949-01-01,War,222
+1950-01-01,War,230
+1951-01-01,War,246
+1952-01-01,War,254
+1953-01-01,War,266
+1954-01-01,War,277
+1955-01-01,War,290
+1956-01-01,War,308
+1957-01-01,War,328
+1958-01-01,War,349
+1959-01-01,War,372
+1960-01-01,War,385
+1961-01-01,War,397
+1962-01-01,War,411
+1963-01-01,War,426
+1964-01-01,War,440
+1965-01-01,War,466
+1966-01-01,War,487
+1967-01-01,War,506
+1968-01-01,War,521
+1969-01-01,War,541
+1970-01-01,War,561
+1971-01-01,War,574
+1972-01-01,War,583
+1973-01-01,War,591
+1974-01-01,War,600
+1975-01-01,War,610
+1976-01-01,War,621
+1977-01-01,War,635
+1978-01-01,War,646
+1979-01-01,War,658
+1980-01-01,War,667
+1981-01-01,War,675
+1982-01-01,War,683
+1983-01-01,War,692
+1984-01-01,War,699
+1985-01-01,War,709
+1986-01-01,War,720
+1987-01-01,War,733
+1988-01-01,War,750
+1989-01-01,War,769
+1990-01-01,War,775
+1991-01-01,War,781
+1992-01-01,War,789
+1993-01-01,War,801
+1994-01-01,War,809
+1995-01-01,War,822
+1996-01-01,War,835
+1997-01-01,War,843
+1998-01-01,War,862
+1999-01-01,War,873
+2000-01-01,War,891
+2001-01-01,War,914
+2002-01-01,War,935
+2003-01-01,War,950
+2004-01-01,War,969
+2005-01-01,War,987
+2006-01-01,War,1006
+2007-01-01,War,1026
+2008-01-01,War,1063
+2009-01-01,War,1088
+2010-01-01,War,1115
+2011-01-01,War,1145
+2012-01-01,War,1169
+2013-01-01,War,1193
+2014-01-01,War,1233
+2015-01-01,War,1274
+2016-01-01,War,1306
+2017-01-01,War,1323
+1874-01-01,War,0
+1878-01-01,War,0
+1883-01-01,War,0
+1887-01-01,War,0
+1888-01-01,War,0
+1890-01-01,War,0
+1891-01-01,War,0
+1892-01-01,War,0
+1893-01-01,War,0
+1894-01-01,War,0
+1895-01-01,War,0
+1896-01-01,War,0
+1898-01-01,War,1
+1899-01-01,War,1
+1900-01-01,War,1
+1901-01-01,War,1
+1902-01-01,War,1
+1903-01-01,War,1
+1904-01-01,War,1
+1905-01-01,War,1
+1906-01-01,War,1
+1907-01-01,War,1
+1908-01-01,War,1
+1909-01-01,War,1
+1911-01-01,War,2
+1912-01-01,War,2
+1913-01-01,War,2
+1914-01-01,War,2
+1916-01-01,War,6
+1917-01-01,War,6
+1920-01-01,War,8
+1922-01-01,War,9
+1923-01-01,War,9
+1924-01-01,War,9
+2018-01-01,War,1323
+2020-01-01,War,1323
+1898-01-01,Family,1
+1899-01-01,Family,2
+1902-01-01,Family,3
+1915-01-01,Family,4
+1922-01-01,Family,5
+1923-01-01,Family,6
+1924-01-01,Family,7
+1925-01-01,Family,8
+1928-01-01,Family,9
+1929-01-01,Family,10
+1931-01-01,Family,11
+1932-01-01,Family,12
+1933-01-01,Family,15
+1934-01-01,Family,22
+1935-01-01,Family,28
+1936-01-01,Family,34
+1937-01-01,Family,43
+1938-01-01,Family,48
+1939-01-01,Family,53
+1940-01-01,Family,61
+1941-01-01,Family,65
+1942-01-01,Family,71
+1943-01-01,Family,75
+1944-01-01,Family,80
+1945-01-01,Family,83
+1946-01-01,Family,89
+1947-01-01,Family,96
+1948-01-01,Family,103
+1949-01-01,Family,111
+1950-01-01,Family,120
+1951-01-01,Family,125
+1952-01-01,Family,134
+1953-01-01,Family,142
+1954-01-01,Family,145
+1955-01-01,Family,157
+1956-01-01,Family,167
+1957-01-01,Family,175
+1958-01-01,Family,179
+1959-01-01,Family,189
+1960-01-01,Family,199
+1961-01-01,Family,213
+1962-01-01,Family,223
+1963-01-01,Family,235
+1964-01-01,Family,251
+1965-01-01,Family,257
+1966-01-01,Family,277
+1967-01-01,Family,287
+1968-01-01,Family,310
+1969-01-01,Family,323
+1970-01-01,Family,337
+1971-01-01,Family,354
+1972-01-01,Family,374
+1973-01-01,Family,396
+1974-01-01,Family,414
+1975-01-01,Family,429
+1976-01-01,Family,445
+1977-01-01,Family,467
+1978-01-01,Family,484
+1979-01-01,Family,508
+1980-01-01,Family,526
+1981-01-01,Family,542
+1982-01-01,Family,565
+1983-01-01,Family,584
+1984-01-01,Family,603
+1985-01-01,Family,632
+1986-01-01,Family,663
+1987-01-01,Family,702
+1988-01-01,Family,733
+1989-01-01,Family,762
+1990-01-01,Family,791
+1991-01-01,Family,829
+1992-01-01,Family,858
+1993-01-01,Family,901
+1994-01-01,Family,960
+1995-01-01,Family,1019
+1996-01-01,Family,1068
+1997-01-01,Family,1124
+1998-01-01,Family,1183
+1999-01-01,Family,1247
+2000-01-01,Family,1308
+2001-01-01,Family,1374
+2002-01-01,Family,1449
+2003-01-01,Family,1525
+2004-01-01,Family,1587
+2005-01-01,Family,1676
+2006-01-01,Family,1768
+2007-01-01,Family,1847
+2008-01-01,Family,1946
+2009-01-01,Family,2045
+2010-01-01,Family,2142
+2011-01-01,Family,2270
+2012-01-01,Family,2357
+2013-01-01,Family,2447
+2014-01-01,Family,2557
+2015-01-01,Family,2664
+2016-01-01,Family,2743
+2017-01-01,Family,2768
+1874-01-01,Family,0
+1878-01-01,Family,0
+1883-01-01,Family,0
+1887-01-01,Family,0
+1888-01-01,Family,0
+1890-01-01,Family,0
+1891-01-01,Family,0
+1892-01-01,Family,0
+1893-01-01,Family,0
+1894-01-01,Family,0
+1895-01-01,Family,0
+1896-01-01,Family,0
+1897-01-01,Family,0
+1900-01-01,Family,2
+1901-01-01,Family,2
+1903-01-01,Family,3
+1904-01-01,Family,3
+1905-01-01,Family,3
+1906-01-01,Family,3
+1907-01-01,Family,3
+1908-01-01,Family,3
+1909-01-01,Family,3
+1910-01-01,Family,3
+1911-01-01,Family,3
+1912-01-01,Family,3
+1913-01-01,Family,3
+1914-01-01,Family,3
+1916-01-01,Family,4
+1917-01-01,Family,4
+1918-01-01,Family,4
+1919-01-01,Family,4
+1920-01-01,Family,4
+1921-01-01,Family,4
+1926-01-01,Family,8
+1927-01-01,Family,8
+1930-01-01,Family,10
+2018-01-01,Family,2768
+2020-01-01,Family,2768
+1899-01-01,Science Fiction,1
+1901-01-01,Science Fiction,2
+1902-01-01,Science Fiction,3
+1904-01-01,Science Fiction,4
+1906-01-01,Science Fiction,5
+1908-01-01,Science Fiction,6
+1910-01-01,Science Fiction,7
+1912-01-01,Science Fiction,8
+1916-01-01,Science Fiction,9
+1920-01-01,Science Fiction,11
+1924-01-01,Science Fiction,13
+1925-01-01,Science Fiction,15
+1927-01-01,Science Fiction,16
+1928-01-01,Science Fiction,17
+1929-01-01,Science Fiction,18
+1930-01-01,Science Fiction,19
+1931-01-01,Science Fiction,21
+1932-01-01,Science Fiction,23
+1933-01-01,Science Fiction,27
+1934-01-01,Science Fiction,28
+1935-01-01,Science Fiction,31
+1936-01-01,Science Fiction,38
+1938-01-01,Science Fiction,39
+1939-01-01,Science Fiction,42
+1940-01-01,Science Fiction,48
+1941-01-01,Science Fiction,52
+1942-01-01,Science Fiction,54
+1943-01-01,Science Fiction,57
+1944-01-01,Science Fiction,61
+1945-01-01,Science Fiction,62
+1948-01-01,Science Fiction,64
+1949-01-01,Science Fiction,66
+1950-01-01,Science Fiction,70
+1951-01-01,Science Fiction,79
+1952-01-01,Science Fiction,83
+1953-01-01,Science Fiction,100
+1954-01-01,Science Fiction,112
+1955-01-01,Science Fiction,122
+1956-01-01,Science Fiction,142
+1957-01-01,Science Fiction,163
+1958-01-01,Science Fiction,196
+1959-01-01,Science Fiction,220
+1960-01-01,Science Fiction,235
+1961-01-01,Science Fiction,253
+1962-01-01,Science Fiction,267
+1963-01-01,Science Fiction,279
+1964-01-01,Science Fiction,294
+1965-01-01,Science Fiction,317
+1966-01-01,Science Fiction,346
+1967-01-01,Science Fiction,367
+1968-01-01,Science Fiction,388
+1969-01-01,Science Fiction,407
+1970-01-01,Science Fiction,422
+1971-01-01,Science Fiction,442
+1972-01-01,Science Fiction,460
+1973-01-01,Science Fiction,485
+1974-01-01,Science Fiction,502
+1975-01-01,Science Fiction,517
+1976-01-01,Science Fiction,530
+1977-01-01,Science Fiction,562
+1978-01-01,Science Fiction,582
+1979-01-01,Science Fiction,617
+1980-01-01,Science Fiction,653
+1981-01-01,Science Fiction,679
+1982-01-01,Science Fiction,718
+1983-01-01,Science Fiction,759
+1984-01-01,Science Fiction,805
+1985-01-01,Science Fiction,840
+1986-01-01,Science Fiction,879
+1987-01-01,Science Fiction,929
+1988-01-01,Science Fiction,972
+1989-01-01,Science Fiction,1021
+1990-01-01,Science Fiction,1067
+1991-01-01,Science Fiction,1106
+1992-01-01,Science Fiction,1137
+1993-01-01,Science Fiction,1184
+1994-01-01,Science Fiction,1229
+1995-01-01,Science Fiction,1290
+1996-01-01,Science Fiction,1345
+1997-01-01,Science Fiction,1401
+1998-01-01,Science Fiction,1449
+1999-01-01,Science Fiction,1503
+2000-01-01,Science Fiction,1549
+2001-01-01,Science Fiction,1617
+2002-01-01,Science Fiction,1686
+2003-01-01,Science Fiction,1750
+2004-01-01,Science Fiction,1816
+2005-01-01,Science Fiction,1878
+2006-01-01,Science Fiction,1951
+2007-01-01,Science Fiction,2025
+2008-01-01,Science Fiction,2117
+2009-01-01,Science Fiction,2243
+2010-01-01,Science Fiction,2332
+2011-01-01,Science Fiction,2441
+2012-01-01,Science Fiction,2522
+2013-01-01,Science Fiction,2630
+2014-01-01,Science Fiction,2754
+2015-01-01,Science Fiction,2892
+2016-01-01,Science Fiction,2981
+2017-01-01,Science Fiction,3040
+2018-01-01,Science Fiction,3041
+2020-01-01,Science Fiction,3042
+1874-01-01,Science Fiction,0
+1878-01-01,Science Fiction,0
+1883-01-01,Science Fiction,0
+1887-01-01,Science Fiction,0
+1888-01-01,Science Fiction,0
+1890-01-01,Science Fiction,0
+1891-01-01,Science Fiction,0
+1892-01-01,Science Fiction,0
+1893-01-01,Science Fiction,0
+1894-01-01,Science Fiction,0
+1895-01-01,Science Fiction,0
+1896-01-01,Science Fiction,0
+1897-01-01,Science Fiction,0
+1898-01-01,Science Fiction,0
+1900-01-01,Science Fiction,1
+1903-01-01,Science Fiction,3
+1905-01-01,Science Fiction,4
+1907-01-01,Science Fiction,5
+1909-01-01,Science Fiction,6
+1911-01-01,Science Fiction,7
+1913-01-01,Science Fiction,8
+1914-01-01,Science Fiction,8
+1915-01-01,Science Fiction,8
+1917-01-01,Science Fiction,9
+1918-01-01,Science Fiction,9
+1919-01-01,Science Fiction,9
+1921-01-01,Science Fiction,11
+1922-01-01,Science Fiction,11
+1923-01-01,Science Fiction,11
+1926-01-01,Science Fiction,15
+1937-01-01,Science Fiction,38
+1946-01-01,Science Fiction,62
+1947-01-01,Science Fiction,62
+1900-01-01,Thriller,1
+1909-01-01,Thriller,2
+1920-01-01,Thriller,4
+1921-01-01,Thriller,5
+1922-01-01,Thriller,7
+1923-01-01,Thriller,8
+1924-01-01,Thriller,9
+1926-01-01,Thriller,10
+1927-01-01,Thriller,12
+1928-01-01,Thriller,15
+1929-01-01,Thriller,20
+1930-01-01,Thriller,23
+1931-01-01,Thriller,30
+1932-01-01,Thriller,41
+1933-01-01,Thriller,51
+1934-01-01,Thriller,57
+1935-01-01,Thriller,64
+1936-01-01,Thriller,74
+1937-01-01,Thriller,85
+1938-01-01,Thriller,94
+1939-01-01,Thriller,114
+1940-01-01,Thriller,131
+1941-01-01,Thriller,148
+1942-01-01,Thriller,166
+1943-01-01,Thriller,186
+1944-01-01,Thriller,210
+1945-01-01,Thriller,234
+1946-01-01,Thriller,261
+1947-01-01,Thriller,297
+1948-01-01,Thriller,321
+1949-01-01,Thriller,347
+1950-01-01,Thriller,371
+1951-01-01,Thriller,396
+1952-01-01,Thriller,415
+1953-01-01,Thriller,438
+1954-01-01,Thriller,465
+1955-01-01,Thriller,487
+1956-01-01,Thriller,506
+1957-01-01,Thriller,526
+1958-01-01,Thriller,547
+1959-01-01,Thriller,576
+1960-01-01,Thriller,603
+1961-01-01,Thriller,619
+1962-01-01,Thriller,637
+1963-01-01,Thriller,656
+1964-01-01,Thriller,683
+1965-01-01,Thriller,710
+1966-01-01,Thriller,738
+1967-01-01,Thriller,771
+1968-01-01,Thriller,811
+1969-01-01,Thriller,842
+1970-01-01,Thriller,891
+1971-01-01,Thriller,951
+1972-01-01,Thriller,1012
+1973-01-01,Thriller,1085
+1974-01-01,Thriller,1157
+1975-01-01,Thriller,1212
+1976-01-01,Thriller,1272
+1977-01-01,Thriller,1332
+1978-01-01,Thriller,1391
+1979-01-01,Thriller,1438
+1980-01-01,Thriller,1493
+1981-01-01,Thriller,1554
+1982-01-01,Thriller,1601
+1983-01-01,Thriller,1652
+1984-01-01,Thriller,1708
+1985-01-01,Thriller,1763
+1986-01-01,Thriller,1815
+1987-01-01,Thriller,1882
+1988-01-01,Thriller,1974
+1989-01-01,Thriller,2038
+1990-01-01,Thriller,2120
+1991-01-01,Thriller,2200
+1992-01-01,Thriller,2282
+1993-01-01,Thriller,2380
+1994-01-01,Thriller,2475
+1995-01-01,Thriller,2586
+1996-01-01,Thriller,2706
+1997-01-01,Thriller,2830
+1998-01-01,Thriller,2959
+1999-01-01,Thriller,3087
+2000-01-01,Thriller,3224
+2001-01-01,Thriller,3380
+2002-01-01,Thriller,3563
+2003-01-01,Thriller,3745
+2004-01-01,Thriller,3912
+2005-01-01,Thriller,4107
+2006-01-01,Thriller,4375
+2007-01-01,Thriller,4625
+2008-01-01,Thriller,4910
+2009-01-01,Thriller,5256
+2010-01-01,Thriller,5567
+2011-01-01,Thriller,5861
+2012-01-01,Thriller,6150
+2013-01-01,Thriller,6487
+2014-01-01,Thriller,6838
+2015-01-01,Thriller,7205
+2016-01-01,Thriller,7507
+2017-01-01,Thriller,7618
+2018-01-01,Thriller,7619
+1874-01-01,Thriller,0
+1878-01-01,Thriller,0
+1883-01-01,Thriller,0
+1887-01-01,Thriller,0
+1888-01-01,Thriller,0
+1890-01-01,Thriller,0
+1891-01-01,Thriller,0
+1892-01-01,Thriller,0
+1893-01-01,Thriller,0
+1894-01-01,Thriller,0
+1895-01-01,Thriller,0
+1896-01-01,Thriller,0
+1897-01-01,Thriller,0
+1898-01-01,Thriller,0
+1899-01-01,Thriller,0
+1901-01-01,Thriller,1
+1902-01-01,Thriller,1
+1903-01-01,Thriller,1
+1904-01-01,Thriller,1
+1905-01-01,Thriller,1
+1906-01-01,Thriller,1
+1907-01-01,Thriller,1
+1908-01-01,Thriller,1
+1910-01-01,Thriller,2
+1911-01-01,Thriller,2
+1912-01-01,Thriller,2
+1913-01-01,Thriller,2
+1914-01-01,Thriller,2
+1915-01-01,Thriller,2
+1916-01-01,Thriller,2
+1917-01-01,Thriller,2
+1918-01-01,Thriller,2
+1919-01-01,Thriller,2
+1925-01-01,Thriller,9
+2020-01-01,Thriller,7619
+1901-01-01,Crime,1
+1906-01-01,Crime,3
+1908-01-01,Crime,4
+1912-01-01,Crime,5
+1913-01-01,Crime,8
+1914-01-01,Crime,10
+1915-01-01,Crime,12
+1916-01-01,Crime,14
+1920-01-01,Crime,16
+1921-01-01,Crime,19
+1922-01-01,Crime,21
+1924-01-01,Crime,23
+1925-01-01,Crime,26
+1926-01-01,Crime,28
+1927-01-01,Crime,32
+1928-01-01,Crime,35
+1929-01-01,Crime,39
+1930-01-01,Crime,48
+1931-01-01,Crime,66
+1932-01-01,Crime,84
+1933-01-01,Crime,100
+1934-01-01,Crime,114
+1935-01-01,Crime,130
+1936-01-01,Crime,149
+1937-01-01,Crime,170
+1938-01-01,Crime,185
+1939-01-01,Crime,205
+1940-01-01,Crime,222
+1941-01-01,Crime,236
+1942-01-01,Crime,255
+1943-01-01,Crime,263
+1944-01-01,Crime,275
+1945-01-01,Crime,292
+1946-01-01,Crime,322
+1947-01-01,Crime,359
+1948-01-01,Crime,393
+1949-01-01,Crime,425
+1950-01-01,Crime,468
+1951-01-01,Crime,499
+1952-01-01,Crime,520
+1953-01-01,Crime,542
+1954-01-01,Crime,570
+1955-01-01,Crime,606
+1956-01-01,Crime,628
+1957-01-01,Crime,647
+1958-01-01,Crime,668
+1959-01-01,Crime,691
+1960-01-01,Crime,720
+1961-01-01,Crime,738
+1962-01-01,Crime,754
+1963-01-01,Crime,777
+1964-01-01,Crime,802
+1965-01-01,Crime,820
+1966-01-01,Crime,854
+1967-01-01,Crime,886
+1968-01-01,Crime,925
+1969-01-01,Crime,947
+1970-01-01,Crime,971
+1971-01-01,Crime,1014
+1972-01-01,Crime,1062
+1973-01-01,Crime,1137
+1974-01-01,Crime,1199
+1975-01-01,Crime,1249
+1976-01-01,Crime,1295
+1977-01-01,Crime,1325
+1978-01-01,Crime,1364
+1979-01-01,Crime,1398
+1980-01-01,Crime,1424
+1981-01-01,Crime,1458
+1982-01-01,Crime,1489
+1983-01-01,Crime,1526
+1984-01-01,Crime,1563
+1985-01-01,Crime,1600
+1986-01-01,Crime,1641
+1987-01-01,Crime,1689
+1988-01-01,Crime,1742
+1989-01-01,Crime,1787
+1990-01-01,Crime,1838
+1991-01-01,Crime,1883
+1992-01-01,Crime,1933
+1993-01-01,Crime,1986
+1994-01-01,Crime,2034
+1995-01-01,Crime,2098
+1996-01-01,Crime,2154
+1997-01-01,Crime,2231
+1998-01-01,Crime,2310
+1999-01-01,Crime,2372
+2000-01-01,Crime,2446
+2001-01-01,Crime,2532
+2002-01-01,Crime,2625
+2003-01-01,Crime,2713
+2004-01-01,Crime,2789
+2005-01-01,Crime,2887
+2006-01-01,Crime,3001
+2007-01-01,Crime,3128
+2008-01-01,Crime,3249
+2009-01-01,Crime,3376
+2010-01-01,Crime,3497
+2011-01-01,Crime,3609
+2012-01-01,Crime,3724
+2013-01-01,Crime,3877
+2014-01-01,Crime,4019
+2015-01-01,Crime,4148
+2016-01-01,Crime,4250
+2017-01-01,Crime,4304
+2018-01-01,Crime,4305
+1874-01-01,Crime,0
+1878-01-01,Crime,0
+1883-01-01,Crime,0
+1887-01-01,Crime,0
+1888-01-01,Crime,0
+1890-01-01,Crime,0
+1891-01-01,Crime,0
+1892-01-01,Crime,0
+1893-01-01,Crime,0
+1894-01-01,Crime,0
+1895-01-01,Crime,0
+1896-01-01,Crime,0
+1897-01-01,Crime,0
+1898-01-01,Crime,0
+1899-01-01,Crime,0
+1900-01-01,Crime,0
+1902-01-01,Crime,1
+1903-01-01,Crime,1
+1904-01-01,Crime,1
+1905-01-01,Crime,1
+1907-01-01,Crime,3
+1909-01-01,Crime,4
+1910-01-01,Crime,4
+1911-01-01,Crime,4
+1917-01-01,Crime,14
+1918-01-01,Crime,14
+1919-01-01,Crime,14
+1923-01-01,Crime,21
+2020-01-01,Crime,4305
+1902-01-01,Adventure,2
+1903-01-01,Adventure,4
+1904-01-01,Adventure,5
+1910-01-01,Adventure,7
+1911-01-01,Adventure,8
+1912-01-01,Adventure,9
+1916-01-01,Adventure,11
+1919-01-01,Adventure,14
+1920-01-01,Adventure,17
+1921-01-01,Adventure,20
+1922-01-01,Adventure,22
+1923-01-01,Adventure,24
+1924-01-01,Adventure,30
+1925-01-01,Adventure,35
+1926-01-01,Adventure,41
+1927-01-01,Adventure,43
+1928-01-01,Adventure,46
+1929-01-01,Adventure,49
+1930-01-01,Adventure,51
+1931-01-01,Adventure,57
+1932-01-01,Adventure,66
+1933-01-01,Adventure,74
+1934-01-01,Adventure,83
+1935-01-01,Adventure,97
+1936-01-01,Adventure,105
+1937-01-01,Adventure,124
+1938-01-01,Adventure,136
+1939-01-01,Adventure,155
+1940-01-01,Adventure,166
+1941-01-01,Adventure,173
+1942-01-01,Adventure,183
+1943-01-01,Adventure,195
+1944-01-01,Adventure,202
+1945-01-01,Adventure,209
+1946-01-01,Adventure,212
+1947-01-01,Adventure,226
+1948-01-01,Adventure,235
+1949-01-01,Adventure,244
+1950-01-01,Adventure,256
+1951-01-01,Adventure,272
+1952-01-01,Adventure,295
+1953-01-01,Adventure,316
+1954-01-01,Adventure,343
+1955-01-01,Adventure,360
+1956-01-01,Adventure,384
+1957-01-01,Adventure,405
+1958-01-01,Adventure,426
+1959-01-01,Adventure,447
+1960-01-01,Adventure,468
+1961-01-01,Adventure,492
+1962-01-01,Adventure,519
+1963-01-01,Adventure,545
+1964-01-01,Adventure,574
+1965-01-01,Adventure,602
+1966-01-01,Adventure,648
+1967-01-01,Adventure,678
+1968-01-01,Adventure,708
+1969-01-01,Adventure,736
+1970-01-01,Adventure,762
+1971-01-01,Adventure,786
+1972-01-01,Adventure,810
+1973-01-01,Adventure,841
+1974-01-01,Adventure,865
+1975-01-01,Adventure,895
+1976-01-01,Adventure,918
+1977-01-01,Adventure,949
+1978-01-01,Adventure,973
+1979-01-01,Adventure,1006
+1980-01-01,Adventure,1039
+1981-01-01,Adventure,1080
+1982-01-01,Adventure,1110
+1983-01-01,Adventure,1151
+1984-01-01,Adventure,1182
+1985-01-01,Adventure,1233
+1986-01-01,Adventure,1268
+1987-01-01,Adventure,1315
+1988-01-01,Adventure,1348
+1989-01-01,Adventure,1396
+1990-01-01,Adventure,1437
+1991-01-01,Adventure,1476
+1992-01-01,Adventure,1517
+1993-01-01,Adventure,1561
+1994-01-01,Adventure,1618
+1995-01-01,Adventure,1672
+1996-01-01,Adventure,1719
+1997-01-01,Adventure,1782
+1998-01-01,Adventure,1841
+1999-01-01,Adventure,1881
+2000-01-01,Adventure,1928
+2001-01-01,Adventure,1992
+2002-01-01,Adventure,2064
+2003-01-01,Adventure,2134
+2004-01-01,Adventure,2216
+2005-01-01,Adventure,2286
+2006-01-01,Adventure,2382
+2007-01-01,Adventure,2462
+2008-01-01,Adventure,2581
+2009-01-01,Adventure,2709
+2010-01-01,Adventure,2805
+2011-01-01,Adventure,2908
+2012-01-01,Adventure,2992
+2013-01-01,Adventure,3102
+2014-01-01,Adventure,3226
+2015-01-01,Adventure,3347
+2016-01-01,Adventure,3454
+2017-01-01,Adventure,3493
+2020-01-01,Adventure,3494
+1874-01-01,Adventure,0
+1878-01-01,Adventure,0
+1883-01-01,Adventure,0
+1887-01-01,Adventure,0
+1888-01-01,Adventure,0
+1890-01-01,Adventure,0
+1891-01-01,Adventure,0
+1892-01-01,Adventure,0
+1893-01-01,Adventure,0
+1894-01-01,Adventure,0
+1895-01-01,Adventure,0
+1896-01-01,Adventure,0
+1897-01-01,Adventure,0
+1898-01-01,Adventure,0
+1899-01-01,Adventure,0
+1900-01-01,Adventure,0
+1901-01-01,Adventure,0
+1905-01-01,Adventure,5
+1906-01-01,Adventure,5
+1907-01-01,Adventure,5
+1908-01-01,Adventure,5
+1909-01-01,Adventure,5
+1913-01-01,Adventure,9
+1914-01-01,Adventure,9
+1915-01-01,Adventure,9
+1917-01-01,Adventure,11
+1918-01-01,Adventure,11
+2018-01-01,Adventure,3493
+1903-01-01,Music,1
+1909-01-01,Music,2
+1927-01-01,Music,3
+1929-01-01,Music,10
+1930-01-01,Music,25
+1931-01-01,Music,31
+1932-01-01,Music,33
+1933-01-01,Music,41
+1934-01-01,Music,56
+1935-01-01,Music,65
+1936-01-01,Music,84
+1937-01-01,Music,98
+1938-01-01,Music,109
+1939-01-01,Music,116
+1940-01-01,Music,126
+1941-01-01,Music,137
+1942-01-01,Music,147
+1943-01-01,Music,164
+1944-01-01,Music,181
+1945-01-01,Music,192
+1946-01-01,Music,202
+1947-01-01,Music,213
+1948-01-01,Music,225
+1949-01-01,Music,234
+1950-01-01,Music,250
+1951-01-01,Music,263
+1952-01-01,Music,276
+1953-01-01,Music,292
+1954-01-01,Music,304
+1955-01-01,Music,314
+1956-01-01,Music,329
+1957-01-01,Music,338
+1958-01-01,Music,346
+1959-01-01,Music,353
+1960-01-01,Music,363
+1961-01-01,Music,368
+1962-01-01,Music,377
+1963-01-01,Music,383
+1964-01-01,Music,399
+1965-01-01,Music,408
+1966-01-01,Music,417
+1967-01-01,Music,433
+1968-01-01,Music,453
+1969-01-01,Music,461
+1970-01-01,Music,477
+1971-01-01,Music,483
+1972-01-01,Music,501
+1973-01-01,Music,514
+1974-01-01,Music,520
+1975-01-01,Music,533
+1976-01-01,Music,546
+1977-01-01,Music,556
+1978-01-01,Music,566
+1979-01-01,Music,582
+1980-01-01,Music,603
+1981-01-01,Music,616
+1982-01-01,Music,634
+1983-01-01,Music,648
+1984-01-01,Music,667
+1985-01-01,Music,677
+1986-01-01,Music,693
+1987-01-01,Music,712
+1988-01-01,Music,733
+1989-01-01,Music,740
+1990-01-01,Music,748
+1991-01-01,Music,763
+1992-01-01,Music,777
+1993-01-01,Music,791
+1994-01-01,Music,805
+1995-01-01,Music,812
+1996-01-01,Music,827
+1997-01-01,Music,841
+1998-01-01,Music,868
+1999-01-01,Music,890
+2000-01-01,Music,920
+2001-01-01,Music,943
+2002-01-01,Music,971
+2003-01-01,Music,1002
+2004-01-01,Music,1027
+2005-01-01,Music,1063
+2006-01-01,Music,1101
+2007-01-01,Music,1150
+2008-01-01,Music,1193
+2009-01-01,Music,1247
+2010-01-01,Music,1285
+2011-01-01,Music,1325
+2012-01-01,Music,1368
+2013-01-01,Music,1416
+2014-01-01,Music,1475
+2015-01-01,Music,1539
+2016-01-01,Music,1586
+2017-01-01,Music,1598
+1874-01-01,Music,0
+1878-01-01,Music,0
+1883-01-01,Music,0
+1887-01-01,Music,0
+1888-01-01,Music,0
+1890-01-01,Music,0
+1891-01-01,Music,0
+1892-01-01,Music,0
+1893-01-01,Music,0
+1894-01-01,Music,0
+1895-01-01,Music,0
+1896-01-01,Music,0
+1897-01-01,Music,0
+1898-01-01,Music,0
+1899-01-01,Music,0
+1900-01-01,Music,0
+1901-01-01,Music,0
+1902-01-01,Music,0
+1904-01-01,Music,1
+1905-01-01,Music,1
+1906-01-01,Music,1
+1907-01-01,Music,1
+1908-01-01,Music,1
+1910-01-01,Music,2
+1911-01-01,Music,2
+1912-01-01,Music,2
+1913-01-01,Music,2
+1914-01-01,Music,2
+1915-01-01,Music,2
+1916-01-01,Music,2
+1917-01-01,Music,2
+1918-01-01,Music,2
+1919-01-01,Music,2
+1920-01-01,Music,2
+1921-01-01,Music,2
+1922-01-01,Music,2
+1923-01-01,Music,2
+1924-01-01,Music,2
+1925-01-01,Music,2
+1926-01-01,Music,2
+1928-01-01,Music,3
+2018-01-01,Music,1598
+2020-01-01,Music,1598
+1903-01-01,Western,1
+1913-01-01,Western,2
+1914-01-01,Western,3
+1915-01-01,Western,4
+1916-01-01,Western,6
+1917-01-01,Western,7
+1919-01-01,Western,8
+1920-01-01,Western,11
+1922-01-01,Western,12
+1924-01-01,Western,13
+1925-01-01,Western,17
+1926-01-01,Western,21
+1928-01-01,Western,23
+1929-01-01,Western,24
+1930-01-01,Western,25
+1931-01-01,Western,26
+1932-01-01,Western,31
+1933-01-01,Western,39
+1934-01-01,Western,51
+1935-01-01,Western,61
+1936-01-01,Western,71
+1937-01-01,Western,75
+1938-01-01,Western,81
+1939-01-01,Western,93
+1940-01-01,Western,106
+1941-01-01,Western,116
+1942-01-01,Western,121
+1943-01-01,Western,132
+1944-01-01,Western,138
+1945-01-01,Western,143
+1946-01-01,Western,153
+1947-01-01,Western,166
+1948-01-01,Western,181
+1949-01-01,Western,188
+1950-01-01,Western,210
+1951-01-01,Western,228
+1952-01-01,Western,253
+1953-01-01,Western,273
+1954-01-01,Western,295
+1955-01-01,Western,318
+1956-01-01,Western,348
+1957-01-01,Western,372
+1958-01-01,Western,396
+1959-01-01,Western,413
+1960-01-01,Western,424
+1961-01-01,Western,431
+1962-01-01,Western,437
+1963-01-01,Western,441
+1964-01-01,Western,457
+1965-01-01,Western,472
+1966-01-01,Western,509
+1967-01-01,Western,541
+1968-01-01,Western,578
+1969-01-01,Western,612
+1970-01-01,Western,644
+1971-01-01,Western,687
+1972-01-01,Western,712
+1973-01-01,Western,732
+1974-01-01,Western,739
+1975-01-01,Western,756
+1976-01-01,Western,768
+1977-01-01,Western,774
+1978-01-01,Western,782
+1979-01-01,Western,791
+1980-01-01,Western,801
+1981-01-01,Western,807
+1982-01-01,Western,814
+1983-01-01,Western,815
+1985-01-01,Western,819
+1986-01-01,Western,821
+1987-01-01,Western,828
+1988-01-01,Western,830
+1989-01-01,Western,831
+1990-01-01,Western,835
+1991-01-01,Western,841
+1992-01-01,Western,844
+1993-01-01,Western,853
+1994-01-01,Western,863
+1995-01-01,Western,874
+1996-01-01,Western,879
+1997-01-01,Western,884
+1998-01-01,Western,888
+1999-01-01,Western,898
+2000-01-01,Western,902
+2001-01-01,Western,907
+2002-01-01,Western,910
+2003-01-01,Western,918
+2004-01-01,Western,924
+2005-01-01,Western,928
+2006-01-01,Western,932
+2007-01-01,Western,940
+2008-01-01,Western,949
+2009-01-01,Western,960
+2010-01-01,Western,973
+2011-01-01,Western,984
+2012-01-01,Western,992
+2013-01-01,Western,1001
+2014-01-01,Western,1015
+2015-01-01,Western,1028
+2016-01-01,Western,1038
+2017-01-01,Western,1042
+1874-01-01,Western,0
+1878-01-01,Western,0
+1883-01-01,Western,0
+1887-01-01,Western,0
+1888-01-01,Western,0
+1890-01-01,Western,0
+1891-01-01,Western,0
+1892-01-01,Western,0
+1893-01-01,Western,0
+1894-01-01,Western,0
+1895-01-01,Western,0
+1896-01-01,Western,0
+1897-01-01,Western,0
+1898-01-01,Western,0
+1899-01-01,Western,0
+1900-01-01,Western,0
+1901-01-01,Western,0
+1902-01-01,Western,0
+1904-01-01,Western,1
+1905-01-01,Western,1
+1906-01-01,Western,1
+1907-01-01,Western,1
+1908-01-01,Western,1
+1909-01-01,Western,1
+1910-01-01,Western,1
+1911-01-01,Western,1
+1912-01-01,Western,1
+1918-01-01,Western,7
+1921-01-01,Western,11
+1923-01-01,Western,12
+1927-01-01,Western,21
+1984-01-01,Western,815
+2018-01-01,Western,1042
+2020-01-01,Western,1042
+1914-01-01,Mystery,1
+1916-01-01,Mystery,3
+1919-01-01,Mystery,4
+1922-01-01,Mystery,6
+1924-01-01,Mystery,7
+1926-01-01,Mystery,8
+1927-01-01,Mystery,9
+1928-01-01,Mystery,11
+1929-01-01,Mystery,13
+1930-01-01,Mystery,16
+1931-01-01,Mystery,21
+1932-01-01,Mystery,35
+1933-01-01,Mystery,47
+1934-01-01,Mystery,57
+1935-01-01,Mystery,71
+1936-01-01,Mystery,86
+1937-01-01,Mystery,100
+1938-01-01,Mystery,114
+1939-01-01,Mystery,135
+1940-01-01,Mystery,150
+1941-01-01,Mystery,166
+1942-01-01,Mystery,185
+1943-01-01,Mystery,198
+1944-01-01,Mystery,217
+1945-01-01,Mystery,239
+1946-01-01,Mystery,263
+1947-01-01,Mystery,281
+1948-01-01,Mystery,294
+1949-01-01,Mystery,305
+1950-01-01,Mystery,313
+1951-01-01,Mystery,319
+1952-01-01,Mystery,328
+1953-01-01,Mystery,334
+1954-01-01,Mystery,343
+1955-01-01,Mystery,353
+1956-01-01,Mystery,361
+1957-01-01,Mystery,369
+1958-01-01,Mystery,375
+1959-01-01,Mystery,389
+1960-01-01,Mystery,398
+1961-01-01,Mystery,410
+1962-01-01,Mystery,420
+1963-01-01,Mystery,432
+1964-01-01,Mystery,444
+1965-01-01,Mystery,459
+1966-01-01,Mystery,478
+1967-01-01,Mystery,491
+1968-01-01,Mystery,509
+1969-01-01,Mystery,521
+1970-01-01,Mystery,543
+1971-01-01,Mystery,574
+1972-01-01,Mystery,611
+1973-01-01,Mystery,633
+1974-01-01,Mystery,655
+1975-01-01,Mystery,679
+1976-01-01,Mystery,702
+1977-01-01,Mystery,715
+1978-01-01,Mystery,736
+1979-01-01,Mystery,754
+1980-01-01,Mystery,773
+1981-01-01,Mystery,805
+1982-01-01,Mystery,831
+1983-01-01,Mystery,847
+1984-01-01,Mystery,867
+1985-01-01,Mystery,884
+1986-01-01,Mystery,899
+1987-01-01,Mystery,916
+1988-01-01,Mystery,941
+1989-01-01,Mystery,962
+1990-01-01,Mystery,983
+1991-01-01,Mystery,1004
+1992-01-01,Mystery,1032
+1993-01-01,Mystery,1060
+1994-01-01,Mystery,1089
+1995-01-01,Mystery,1112
+1996-01-01,Mystery,1139
+1997-01-01,Mystery,1173
+1998-01-01,Mystery,1210
+1999-01-01,Mystery,1246
+2000-01-01,Mystery,1288
+2001-01-01,Mystery,1330
+2002-01-01,Mystery,1392
+2003-01-01,Mystery,1434
+2004-01-01,Mystery,1481
+2005-01-01,Mystery,1538
+2006-01-01,Mystery,1608
+2007-01-01,Mystery,1669
+2008-01-01,Mystery,1752
+2009-01-01,Mystery,1852
+2010-01-01,Mystery,1935
+2011-01-01,Mystery,2013
+2012-01-01,Mystery,2077
+2013-01-01,Mystery,2172
+2014-01-01,Mystery,2257
+2015-01-01,Mystery,2366
+2016-01-01,Mystery,2435
+2017-01-01,Mystery,2464
+1874-01-01,Mystery,0
+1878-01-01,Mystery,0
+1883-01-01,Mystery,0
+1887-01-01,Mystery,0
+1888-01-01,Mystery,0
+1890-01-01,Mystery,0
+1891-01-01,Mystery,0
+1892-01-01,Mystery,0
+1893-01-01,Mystery,0
+1894-01-01,Mystery,0
+1895-01-01,Mystery,0
+1896-01-01,Mystery,0
+1897-01-01,Mystery,0
+1898-01-01,Mystery,0
+1899-01-01,Mystery,0
+1900-01-01,Mystery,0
+1901-01-01,Mystery,0
+1902-01-01,Mystery,0
+1903-01-01,Mystery,0
+1904-01-01,Mystery,0
+1905-01-01,Mystery,0
+1906-01-01,Mystery,0
+1907-01-01,Mystery,0
+1908-01-01,Mystery,0
+1909-01-01,Mystery,0
+1910-01-01,Mystery,0
+1911-01-01,Mystery,0
+1912-01-01,Mystery,0
+1913-01-01,Mystery,0
+1915-01-01,Mystery,1
+1917-01-01,Mystery,3
+1918-01-01,Mystery,3
+1920-01-01,Mystery,4
+1921-01-01,Mystery,4
+1923-01-01,Mystery,6
+1925-01-01,Mystery,7
+2018-01-01,Mystery,2464
+2020-01-01,Mystery,2464
+1959-01-01,Foreign,2
+1960-01-01,Foreign,4
+1961-01-01,Foreign,5
+1962-01-01,Foreign,13
+1963-01-01,Foreign,20
+1964-01-01,Foreign,25
+1965-01-01,Foreign,38
+1966-01-01,Foreign,46
+1967-01-01,Foreign,58
+1968-01-01,Foreign,76
+1969-01-01,Foreign,96
+1970-01-01,Foreign,111
+1971-01-01,Foreign,128
+1972-01-01,Foreign,150
+1973-01-01,Foreign,173
+1974-01-01,Foreign,192
+1975-01-01,Foreign,205
+1976-01-01,Foreign,219
+1977-01-01,Foreign,235
+1978-01-01,Foreign,253
+1979-01-01,Foreign,266
+1980-01-01,Foreign,279
+1981-01-01,Foreign,290
+1982-01-01,Foreign,302
+1983-01-01,Foreign,315
+1984-01-01,Foreign,324
+1985-01-01,Foreign,332
+1986-01-01,Foreign,340
+1987-01-01,Foreign,356
+1988-01-01,Foreign,366
+1989-01-01,Foreign,381
+1990-01-01,Foreign,389
+1991-01-01,Foreign,404
+1992-01-01,Foreign,414
+1993-01-01,Foreign,430
+1994-01-01,Foreign,453
+1995-01-01,Foreign,466
+1996-01-01,Foreign,492
+1997-01-01,Foreign,523
+1998-01-01,Foreign,565
+1999-01-01,Foreign,611
+2000-01-01,Foreign,668
+2001-01-01,Foreign,730
+2002-01-01,Foreign,802
+2003-01-01,Foreign,860
+2004-01-01,Foreign,932
+2005-01-01,Foreign,1014
+2006-01-01,Foreign,1089
+2007-01-01,Foreign,1183
+2008-01-01,Foreign,1277
+2009-01-01,Foreign,1397
+2010-01-01,Foreign,1477
+2011-01-01,Foreign,1566
+2012-01-01,Foreign,1604
+2013-01-01,Foreign,1618
+2014-01-01,Foreign,1621
+1874-01-01,Foreign,0
+1878-01-01,Foreign,0
+1883-01-01,Foreign,0
+1887-01-01,Foreign,0
+1888-01-01,Foreign,0
+1890-01-01,Foreign,0
+1891-01-01,Foreign,0
+1892-01-01,Foreign,0
+1893-01-01,Foreign,0
+1894-01-01,Foreign,0
+1895-01-01,Foreign,0
+1896-01-01,Foreign,0
+1897-01-01,Foreign,0
+1898-01-01,Foreign,0
+1899-01-01,Foreign,0
+1900-01-01,Foreign,0
+1901-01-01,Foreign,0
+1902-01-01,Foreign,0
+1903-01-01,Foreign,0
+1904-01-01,Foreign,0
+1905-01-01,Foreign,0
+1906-01-01,Foreign,0
+1907-01-01,Foreign,0
+1908-01-01,Foreign,0
+1909-01-01,Foreign,0
+1910-01-01,Foreign,0
+1911-01-01,Foreign,0
+1912-01-01,Foreign,0
+1913-01-01,Foreign,0
+1914-01-01,Foreign,0
+1915-01-01,Foreign,0
+1916-01-01,Foreign,0
+1917-01-01,Foreign,0
+1918-01-01,Foreign,0
+1919-01-01,Foreign,0
+1920-01-01,Foreign,0
+1921-01-01,Foreign,0
+1922-01-01,Foreign,0
+1923-01-01,Foreign,0
+1924-01-01,Foreign,0
+1925-01-01,Foreign,0
+1926-01-01,Foreign,0
+1927-01-01,Foreign,0
+1928-01-01,Foreign,0
+1929-01-01,Foreign,0
+1930-01-01,Foreign,0
+1931-01-01,Foreign,0
+1932-01-01,Foreign,0
+1933-01-01,Foreign,0
+1934-01-01,Foreign,0
+1935-01-01,Foreign,0
+1936-01-01,Foreign,0
+1937-01-01,Foreign,0
+1938-01-01,Foreign,0
+1939-01-01,Foreign,0
+1940-01-01,Foreign,0
+1941-01-01,Foreign,0
+1942-01-01,Foreign,0
+1943-01-01,Foreign,0
+1944-01-01,Foreign,0
+1945-01-01,Foreign,0
+1946-01-01,Foreign,0
+1947-01-01,Foreign,0
+1948-01-01,Foreign,0
+1949-01-01,Foreign,0
+1950-01-01,Foreign,0
+1951-01-01,Foreign,0
+1952-01-01,Foreign,0
+1953-01-01,Foreign,0
+1954-01-01,Foreign,0
+1955-01-01,Foreign,0
+1956-01-01,Foreign,0
+1957-01-01,Foreign,0
+1958-01-01,Foreign,0
+2015-01-01,Foreign,1621
+2016-01-01,Foreign,1621
+2017-01-01,Foreign,1621
+2018-01-01,Foreign,1621
+2020-01-01,Foreign,1621
+1961-01-01,TV Movie,1
+1963-01-01,TV Movie,2
+1964-01-01,TV Movie,3
+1965-01-01,TV Movie,6
+1966-01-01,TV Movie,7
+1967-01-01,TV Movie,8
+1968-01-01,TV Movie,12
+1969-01-01,TV Movie,14
+1970-01-01,TV Movie,20
+1971-01-01,TV Movie,23
+1972-01-01,TV Movie,31
+1973-01-01,TV Movie,41
+1974-01-01,TV Movie,53
+1975-01-01,TV Movie,56
+1976-01-01,TV Movie,60
+1977-01-01,TV Movie,65
+1978-01-01,TV Movie,75
+1979-01-01,TV Movie,84
+1980-01-01,TV Movie,93
+1981-01-01,TV Movie,96
+1982-01-01,TV Movie,101
+1983-01-01,TV Movie,109
+1984-01-01,TV Movie,115
+1985-01-01,TV Movie,119
+1986-01-01,TV Movie,123
+1987-01-01,TV Movie,128
+1988-01-01,TV Movie,135
+1989-01-01,TV Movie,138
+1990-01-01,TV Movie,149
+1991-01-01,TV Movie,154
+1992-01-01,TV Movie,164
+1993-01-01,TV Movie,176
+1994-01-01,TV Movie,190
+1995-01-01,TV Movie,202
+1996-01-01,TV Movie,224
+1997-01-01,TV Movie,235
+1998-01-01,TV Movie,252
+1999-01-01,TV Movie,266
+2000-01-01,TV Movie,284
+2001-01-01,TV Movie,307
+2002-01-01,TV Movie,319
+2003-01-01,TV Movie,332
+2004-01-01,TV Movie,349
+2005-01-01,TV Movie,366
+2006-01-01,TV Movie,393
+2007-01-01,TV Movie,415
+2008-01-01,TV Movie,434
+2009-01-01,TV Movie,463
+2010-01-01,TV Movie,482
+2011-01-01,TV Movie,516
+2012-01-01,TV Movie,554
+2013-01-01,TV Movie,589
+2014-01-01,TV Movie,631
+2015-01-01,TV Movie,698
+2016-01-01,TV Movie,754
+2017-01-01,TV Movie,766
+1874-01-01,TV Movie,0
+1878-01-01,TV Movie,0
+1883-01-01,TV Movie,0
+1887-01-01,TV Movie,0
+1888-01-01,TV Movie,0
+1890-01-01,TV Movie,0
+1891-01-01,TV Movie,0
+1892-01-01,TV Movie,0
+1893-01-01,TV Movie,0
+1894-01-01,TV Movie,0
+1895-01-01,TV Movie,0
+1896-01-01,TV Movie,0
+1897-01-01,TV Movie,0
+1898-01-01,TV Movie,0
+1899-01-01,TV Movie,0
+1900-01-01,TV Movie,0
+1901-01-01,TV Movie,0
+1902-01-01,TV Movie,0
+1903-01-01,TV Movie,0
+1904-01-01,TV Movie,0
+1905-01-01,TV Movie,0
+1906-01-01,TV Movie,0
+1907-01-01,TV Movie,0
+1908-01-01,TV Movie,0
+1909-01-01,TV Movie,0
+1910-01-01,TV Movie,0
+1911-01-01,TV Movie,0
+1912-01-01,TV Movie,0
+1913-01-01,TV Movie,0
+1914-01-01,TV Movie,0
+1915-01-01,TV Movie,0
+1916-01-01,TV Movie,0
+1917-01-01,TV Movie,0
+1918-01-01,TV Movie,0
+1919-01-01,TV Movie,0
+1920-01-01,TV Movie,0
+1921-01-01,TV Movie,0
+1922-01-01,TV Movie,0
+1923-01-01,TV Movie,0
+1924-01-01,TV Movie,0
+1925-01-01,TV Movie,0
+1926-01-01,TV Movie,0
+1927-01-01,TV Movie,0
+1928-01-01,TV Movie,0
+1929-01-01,TV Movie,0
+1930-01-01,TV Movie,0
+1931-01-01,TV Movie,0
+1932-01-01,TV Movie,0
+1933-01-01,TV Movie,0
+1934-01-01,TV Movie,0
+1935-01-01,TV Movie,0
+1936-01-01,TV Movie,0
+1937-01-01,TV Movie,0
+1938-01-01,TV Movie,0
+1939-01-01,TV Movie,0
+1940-01-01,TV Movie,0
+1941-01-01,TV Movie,0
+1942-01-01,TV Movie,0
+1943-01-01,TV Movie,0
+1944-01-01,TV Movie,0
+1945-01-01,TV Movie,0
+1946-01-01,TV Movie,0
+1947-01-01,TV Movie,0
+1948-01-01,TV Movie,0
+1949-01-01,TV Movie,0
+1950-01-01,TV Movie,0
+1951-01-01,TV Movie,0
+1952-01-01,TV Movie,0
+1953-01-01,TV Movie,0
+1954-01-01,TV Movie,0
+1955-01-01,TV Movie,0
+1956-01-01,TV Movie,0
+1957-01-01,TV Movie,0
+1958-01-01,TV Movie,0
+1959-01-01,TV Movie,0
+1960-01-01,TV Movie,0
+1962-01-01,TV Movie,1
+2018-01-01,TV Movie,766
+2020-01-01,TV Movie,766
