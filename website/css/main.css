@@ -86,3 +86,8 @@ pre {
 .side-collapse a{
   font-weight: bold;
 }
+
+.div_viz{
+  width: 100%;
+  float: left;
+}

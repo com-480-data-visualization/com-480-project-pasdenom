@@ -1,0 +1,169 @@
+/*body {
+  font: 300 36px "Helvetica Neue";
+  height: 640px;
+  margin: 80px 160px 80px 160px;
+  overflow: hidden;
+  position: relative;
+  width: 960px;
+}*/
+
+#working_who_viz a:link, a:visited {
+  color: #777;
+  text-decoration: none;
+}
+
+#working_who_viz a:hover {
+  color: #666;
+}
+
+#working_who_viz blockquote {
+  margin: 0;
+}
+
+#working_who_viz blockquote:before {
+  content: "“";
+  position: absolute;
+  left: -.4em;
+}
+
+#working_who_viz blockquote:after {
+  content: "”";
+  position: absolute;
+}
+
+#working_who_viz > ul {
+  margin: 0;
+  padding: 0;
+}
+
+#working_who_viz h1 {
+  font-size: 64px;
+}
+
+#working_who_viz h1, h2, h3 {
+  font-weight: inherit;
+  margin: 0;
+}
+
+#working_who_viz h2, h3 {
+  text-align: right;
+  font-size: inherit;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+#working_who_viz h2 {
+  font-size: 24px;
+  position: absolute;
+}
+
+#working_who_viz h3 {
+  bottom: -20px;
+  font-size: 18px;
+}
+
+#working_who_viz .invert {
+  background: #1f1f1f;
+  color: #dcdccc;
+}
+
+#working_who_viz .invert h2, .invert h3 {
+  color: #7f9f7f;
+}
+
+#working_who_viz .string, .regexp {
+  color: #f39;
+}
+
+#working_who_viz .keyword {
+  color: #00c;
+}
+
+#working_who_viz .comment {
+  color: #777;
+  font-style: oblique;
+}
+
+#working_who_viz .number {
+  color: #369;
+}
+
+#working_who_viz .class, .special {
+  color: #1181B8;
+}
+
+/*#working_who_viz > svg {
+  position: relative;
+  display: block;
+  margin: auto;
+  top: -80px;
+  left: -160px;
+}*/
+
+
+/*------------------*/
+
+#working_who_viz path.arc {
+  cursor: move;
+  fill: #fff;
+}
+
+#working_who_viz .node {
+  font-size: 10px;
+}
+
+#working_who_viz .node:hover {
+  /*fill: #1f77b4;*/
+  font-weight: bold;
+}
+
+#working_who_viz .node.target {
+  /*fill: #d62728 !important;*/
+  fill : red;
+}
+
+#working_who_viz .node.source {
+  /*fill: #2ca02c;*/
+  fill : red;
+}
+
+
+#working_who_viz .link {
+  fill: none;
+  /*stroke: #1f77b4;*/
+  stroke: black;
+  stroke-opacity: .1;
+  pointer-events: none;
+}
+
+#working_who_viz .link.source, .link.target {
+  stroke-opacity: 1;
+  stroke-width: 4px;
+}
+
+
+#working_who_viz .link.source {
+  /*stroke: #d62728;*/
+  /*stroke: #FE2E2E;*/
+  stroke: Yellow;
+}
+
+#working_who_viz .link.target {
+  /*stroke: #2ca02c;*/
+  /*stroke: #F7FE2E;*/
+  stroke: red;
+}
+
+
+
+#working_who_viz .sublink.target {
+  /*stroke: #2ca02c;*/
+  /*stroke: #FE2E2E !important;*/
+  stroke: #8181F7 !important;
+}
+
+#working_who_viz .sublink.source {
+  /*stroke: #d62728;*/
+  stroke: #8181F7 !important;
+}

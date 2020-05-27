@@ -7,6 +7,9 @@
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
   <link rel="stylesheet" href="./css/main.css">
+  <link rel="stylesheet" href="./css/dv/circle.css">
+  <link rel="stylesheet" href="./css/dv/race.css">
+  <link rel="stylesheet" href="./css/dv/sankey.css">
 </head>
 
 <body>
@@ -28,7 +31,6 @@
       <div class="navbar-inverse side-collapse in">
         <nav role="navigation" class="navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="menu-item"><a href="#" class="btn_left_pane" id="locations">Production location</a></li>
             <li class="menu-item"><a href="#" class="btn_left_pane" id="famous">Famous people</a></li>
             <li class="menu-item"><a href="#" class="btn_left_pane" id="genres">Genres</a></li>
             <li class="menu-item"><a href="#" class="btn_left_pane" id="working_who">Who has worked with who?</a></li>
@@ -41,45 +43,49 @@
   </header>
   <div class="container side-collapse-container">
     <div class="row viz" id="locations_viz">
-      <h1>Production location</h1>
-      <p>Lorem ipsum</p>
-       <img src="../Sketches/MapProductionCountries.jpg" alt="Production contries">
     </div>
     <div class="row viz" id="famous_viz">
-      <h1>Famous people</h1>
-      <p>Lorem ipsum</p>
-      <img src="../Sketches/MostSuccessfulPeopleInHistoryCinema.jpg" alt="Most successful people in history of cinema">
     </div>
     <div class="row viz" id="genres_viz">
-      <h1>Best genders</h1>
-      <p>Lorem ipsum</p>
-      <img src="../Sketches/SuccessOfGenresOverTime.jpg" alt="Succes of genres over time">
-
-      <p>Lorem ipsum</p>
-      <img src="../Sketches/MostUsedGenreOverTime.jpg" alt="Succes of genres over time">
-    </div>
-    <div class="row viz" id="working_who_viz">
-      <h1>Who works with who?</h1>
-      <p>Lorem ipsum</p>
-      <img src="../Sketches/WhoHasWorkedWithWho.jpg" alt="Who has worked with who">
+      <h1>Genres</h1>
+      <h2>Global view</h2>
+      <div id="stacked_genres_viz" class="div_viz">
+      </div>
+      <h2>Evolution in time</h2>
+      <div id="race_genres_viz" class="div_viz">
+      </div>
+      <input type="button" id="restart_race" value="Resart animation" />
     </div>
     <div class="row viz" id="working_what_viz">
-      <h1>Who works on what?</h1>
-      <p>Lorem ipsum</p>
-      <img src="../Sketches/SankeyDiagramActorDirector.jpg" alt="Who has worked on what">
+      <h1>Who has worked on what</h1>
+      <div id="sankey"></div>
+    </div>
+    <div class="row viz">
+      <h1>Who has worked with who</h1>
+      <ul>
+        <li>Red link : Has been directed by</li>
+        <li>Yellow link : Directed</li>
+        <li>Blue link : Appear in a same movie</li>
+      </ul>
+      <div id="working_who_viz">
+      </div>
     </div>
     <div class="row viz" id="careers_viz">
-      <h1>Careers</h1>
-      <p>Lorem ipsum</p>
-      <img src="../Sketches/CareerSpanTopActors.jpg" alt="Careers">
     </div>
   </div>
 
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
-  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://d3js.org/d3.v5.js"></script>
   <script src="./js/main.js"></script>
-  <script src="./js/dv/test.js"></script>
+  <script src="./js/dv/stacked.js"></script>
+  <script src="./js/dv/race.js"></script>
+  <script src="./js/dv/sankey_lib.js"></script>
+  <script src="./js/dv/sankey.js"></script>
+  <script src="./js/switch.js"></script>
+  <script src="./js/d3_old/d3.js"></script>
+  <script src="./js/dv/circle_layout.js"></script>
+  <script src="./js/dv/circle.js"></script>
 </body>
 </html>
