@@ -28,7 +28,7 @@ choose_actor_race = function () {
         viz.removeChild(viz.firstChild);
     }
 
-    var tickDuration = 500;
+    var actortickDuration = 500;
 
     var svgRaceActors = d35.select("#actors_race_viz").append("svg")
     .attr("width", 960)
@@ -150,7 +150,7 @@ choose_actor_race = function () {
 
             svgRaceActors.select('.xAxis')
                 .transition()
-                .duration(tickDuration)
+                .duration(actortickDuration)
                 .ease(d35.easeLinear)
                 .call(xAxis);
 
@@ -166,13 +166,13 @@ choose_actor_race = function () {
                 .attr('height', y(1) - y(0) - barPadding)
                 .style('fill', d => d.colour)
                 .transition()
-                .duration(tickDuration)
+                .duration(actortickDuration)
                 .ease(d35.easeLinear)
                 .attr('y', d => y(d.rank) + 5);
 
             bars
                 .transition()
-                .duration(tickDuration)
+                .duration(actortickDuration)
                 .ease(d35.easeLinear)
                 .attr('width', d => x(d.value) - x(0) - 1)
                 .attr('y', d => y(d.rank) + 5);
@@ -180,7 +180,7 @@ choose_actor_race = function () {
             bars
                 .exit()
                 .transition()
-                .duration(tickDuration)
+                .duration(actortickDuration)
                 .ease(d35.easeLinear)
                 .attr('width', d => x(d.value) - x(0) - 1)
                 .attr('y', d => y(top_n + 1) + 5)
@@ -198,14 +198,14 @@ choose_actor_race = function () {
                 .style('text-anchor', 'end')
                 .html(d => d.name)
                 .transition()
-                .duration(tickDuration)
+                .duration(actortickDuration)
                 .ease(d35.easeLinear)
                 .attr('y', d => y(d.rank) + 5 + ((y(1) - y(0)) / 2) + 1);
 
 
             labels
                 .transition()
-                .duration(tickDuration)
+                .duration(actortickDuration)
                 .ease(d35.easeLinear)
                 .attr('x', d => x(d.value) - 8)
                 .attr('y', d => y(d.rank) + 5 + ((y(1) - y(0)) / 2) + 1);
@@ -213,7 +213,7 @@ choose_actor_race = function () {
             labels
                 .exit()
                 .transition()
-                .duration(tickDuration)
+                .duration(actortickDuration)
                 .ease(d35.easeLinear)
                 .attr('x', d => x(d.value) - 8)
                 .attr('y', d => y(top_n + 1) + 5)
@@ -231,13 +231,13 @@ choose_actor_race = function () {
                 .attr('y', d => y(top_n + 1) + 5)
                 .text(d => d35.format(',.0f')(d.lastValue))
                 .transition()
-                .duration(tickDuration)
+                .duration(actortickDuration)
                 .ease(d35.easeLinear)
                 .attr('y', d => y(d.rank) + 5 + ((y(1) - y(0)) / 2) + 1);
 
             valueLabels
                 .transition()
-                .duration(tickDuration)
+                .duration(actortickDuration)
                 .ease(d35.easeLinear)
                 .attr('x', d => x(d.value) + 5)
                 .attr('y', d => y(d.rank) + 5 + ((y(1) - y(0)) / 2) + 1)
@@ -252,7 +252,7 @@ choose_actor_race = function () {
             valueLabels
                 .exit()
                 .transition()
-                .duration(tickDuration)
+                .duration(actortickDuration)
                 .ease(d35.easeLinear)
                 .attr('x', d => x(d.value) + 5)
                 .attr('y', d => y(top_n + 1) + 5)
@@ -265,7 +265,7 @@ choose_actor_race = function () {
             //year = d35.format('.1f')((+year) + 0.1);
         };
 
-/*let*/ actor_race_ticker = d35.interval(e => draw_actor_race(), tickDuration);
+/*let*/ actor_race_ticker = d35.interval(e => draw_actor_race(), actortickDuration);
 
     });
 }
