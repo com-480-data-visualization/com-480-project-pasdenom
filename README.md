@@ -25,3 +25,8 @@ You can find the project website at [this address](https://com-480-data-visualiz
 ## Milestone 3 (Thursday 28th May, 5pm)
 
 **80% of the final grade**
+
+You can find the different parts there :
+* [Website](https://com-480-data-visualization.github.io/com-480-project-pasdenom/website/)
+* [Website](https://com-480-data-visualization.github.io/com-480-project-pasdenom/Milestone3/ProcessBook_HistoryOfCinema.pdf)
+* [Website](https://com-480-data-visualization.github.io/com-480-project-pasdenom/Milestone3/HistoryOfCinema_ScreenCast.mp4)
