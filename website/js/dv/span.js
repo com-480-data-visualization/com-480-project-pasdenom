@@ -117,7 +117,9 @@ draw_span = function () {
     if (!parent.hasChildNodes()) {
       var svg = d35.select("#span_viz").append("svg")
         .attr("width", width)
-        .attr("height", height);
+        .attr("height", height)
+        .style("display", "block")
+        .style("margin", "auto");
 
       const g = svg.append("g").attr("transform", (d, i) => `translate(${margin.left} ${margin.top})`);
 

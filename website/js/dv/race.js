@@ -1,7 +1,9 @@
 // Feel free to change or delete any of the code you see in this editor!
 var svgRace = d35.select("#race_genres_viz").append("svg")
   .attr("width", 960)
-  .attr("height", 600);
+  .attr("height", 600)
+  .style("display", "block")
+  .style("margin", "auto");
 
 
 
@@ -20,30 +22,16 @@ const marginRace = {
 
 let barPadding = (height-(marginRace.bottom+marginRace.top))/(top_n*5);
 
-/*let title = svgRace.append('text')
- .attr('class', 'title')
- .attr('y', 24)
- .html('18 years of Interbrand’s Top Global Brands');*/
-
 let subTitle = svgRace.append("text")
  .attr("class", "subTitle")
  .attr("y", 55)
  .html("Number of movies");
 
-let caption = svgRace.append('text')
- .attr('class', 'caption')
- .attr('x', width)
- .attr('y', height-5)
- .style('text-anchor', 'end')
- .html('Source: Interbrand');
-
  let year = 1884;
  let ticker;
  let main_function;
 
-//d35.csv('brand_values.csv').then(function(data) {
 d35.csv('./data/race_data.csv').then(function(data) {
-//if (error) throw error;
 
    data.forEach(d => {
     d.value = +d.value,

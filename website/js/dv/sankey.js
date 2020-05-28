@@ -11,6 +11,8 @@ function addSankey(overlapSources,overlapTargets,parent) {
   var svgSankey = d35.select("#"+parent).append("svg")
       .attr("width", widthSankey + marginSankey.left + marginSankey.right)
       .attr("height", heightSankey + marginSankey.top + marginSankey.bottom)
+      .style("display", "block")
+      .style("margin", "auto")
     .append("g")
       .attr("transform", "translate(" + marginSankey.left + "," + marginSankey.top + ")");
 
@@ -23,7 +25,6 @@ function addSankey(overlapSources,overlapTargets,parent) {
 
   var path = sankey.link();
 
-  //d35.json("datas.json", function(datas) {
   d35.json("./data/skankey.json").then(function(datas) {
 
     sankey

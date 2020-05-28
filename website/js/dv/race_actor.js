@@ -18,7 +18,7 @@ let actor_race_ticker;
 let draw_actor_race;
 
 choose_actor_race = function () {
-    
+
     let viz = document.getElementById("actors_race_viz");
     if(viz.hasChildNodes()){
         viz.removeChild(viz.firstChild);
@@ -28,12 +28,12 @@ choose_actor_race = function () {
 
     var svgRaceActors = d35.select("#actors_race_viz").append("svg")
     .attr("width", 960)
-    .attr("height", 600);
+    .attr("height", 600)
+    .style("display", "block")
+    .style("margin", "auto");
 
-    //d35.csv('brand_values.csv').then(function(data) {
     d35.csv('./data/career_race_' + selectGenre + '.csv').then(function (data) {
         //if (error) throw error;
-        console.log("in")
         var top_n = 6;
         let year = 1910;
         height = 600
@@ -142,7 +142,6 @@ choose_actor_race = function () {
 
             yearSlice.forEach((d, i) => d.rank = i);
 
-            //console.log('IntervalYear: ', yearSlice);
 
             x.domain([0, d35.max(yearSlice, d => d.value)]);
 

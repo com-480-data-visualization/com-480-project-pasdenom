@@ -91,3 +91,32 @@ pre {
   width: 100%;
   float: left;
 }
+
+.pell_col{
+  height: 6600px;
+  width : 10%;
+  background-color: black;
+  margin: auto;
+  float: left;
+  background-image: url("../img/bg.jpg");
+  background-size: 100%;
+}
+
+#all_viz{
+  height: 6600px;
+  width: 80%;
+  float: left;
+  padding-left: 30px;
+  text-align: justify;
+ text-justify: inter-word;
+}
+
+#all_viz p{
+  width : 70%;
+  font-size: 14pt;
+}
+
+.row.viz{
+  width : 100%;
+  float : left;
+}

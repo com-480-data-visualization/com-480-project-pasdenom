@@ -31,73 +31,84 @@
       <div class="navbar-inverse side-collapse in">
         <nav role="navigation" class="navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="menu-item"><a href="#" class="btn_left_pane" id="famous">Famous people</a></li>
-            <li class="menu-item"><a href="#" class="btn_left_pane" id="genres">Genres</a></li>
-            <li class="menu-item"><a href="#" class="btn_left_pane" id="working_who">Who has worked with who?</a></li>
-            <li class="menu-item"><a href="#" class="btn_left_pane" id="working_what">Who has worked on what?</a></li>
-            <li class="menu-item"><a href="#" class="btn_left_pane" id="careers">Careers</a></li>
+            <li class="menu-item"><a href="#genres_viz" class="btn_left_pane" id="genres">Genres</a></li>
+            <li class="menu-item"><a href="#careers_viz" class="btn_left_pane" id="careers">Careers</a></li>
+            <li class="menu-item"><a href="#career_race_viz" class="btn_left_pane" id="famous">Famous people</a></li>
+            <li class="menu-item"><a href="#working_what_viz" class="btn_left_pane" id="working_what">Who has worked on what?</a></li>
+            <li class="menu-item"><a href="#circle_links" class="btn_left_pane" id="working_who">Who has worked with who?</a></li>
           </ul>
         </nav>
       </div>
     </div>
   </header>
   <div class="container side-collapse-container">
-    <div class="row viz" id="locations_viz">
-    </div>
-    <div class="row viz" id="famous_viz">
-    </div>
-    <div class="row viz" id="genres_viz">
-      <h1>Genres</h1>
-      <h2>Global view</h2>
-      <div id="stacked_genres_viz" class="div_viz">
+    <div class="pell_col"></div>
+    <div id="all_viz">
+      <h1>Introduction</h1>
+      <p>Cinema is certainly a well-known and well-established industry today, but do you know how it has started and how it has evolved? Do you want to find out which genres were the most popular in the 1960s or with which actors Woody Allen or Ridley Scott have worked?</p>
+      <p>If so, this is the right place for you! Through various visualisations, we offer you a path through the history of cinema. Stay with us to discover the evolution of genres, and which actors and film directors have worked with who and on which genre. From the Lumière brothers’ short films to the latest blockbusters, thousands of people and movies have defined the history of the Seventh Art, as cinema is often referred to in France and Italy. </p>
+
+      <div class="row viz" id="genres_viz">
+        <h1>Genres</h1>
+        <h2>Global view</h2>
+        <p>Let’s dive in the multitude of genres cinema has offered us through time. We start our journey with a global view that shows the number of films produced of each genre by year. We encourage you to select a specific span of years to dive deeper in this evolution or to look at each genre, one of a time, by simply passing your mouse on the corresponding name in the legend. Double click to go back to the global view. You might discover some neat details such as the nearly vanishing of Western movies after the 1980s.</p>
+        <div id="stacked_genres_viz" class="div_viz">
+        </div>
+        <h2>Evolution in time</h2>
+        <p>You want to follow more closely the evolution of genres in cinema? This next visualisation has you covered! When has the first horror movie been produced? Which genres were the most popular before the 1960s? Watch this dynamic visualisation and you will find out.</p>
+        <div id="race_genres_viz" class="div_viz">
+        </div>
+        <input type="button" id="restart_race" value="Restart animation" />
       </div>
-      <h2>Evolution in time</h2>
-      <div id="race_genres_viz" class="div_viz">
+      <div class="row viz" id="careers_viz">
+        <h1>Career Peak of most prolific actors for each movie genre</h1>
+        <p>Have you ever wondered who were the most prolific actors in the 1940s? By looking at the four most common film genres, we present to you the career peek of the most prominent actors. You can sort the visualisation either by time or by genre, depending on what you are interested in. If an actor appears on different genres, the specific genre is indicated. Hovering the bars will give you a more detailed view of the actor’s career span. Can you find the actor with the longest career span? How many years was it?</p>
+        <div class="dropdown">
+          <button class="btn btn-secondary dropdown-toggle" id="span_button" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Select View
+          </button>
+          <div class="dropdown-menu" id="span_dropdown" aria-labelledby="dropdownMenuButton">
+            <li><a  href="#span_viz">Time</a></li>
+            <li><a  href="#span_viz">Genre</a></li>
+          </div>
+        </div>
+        <div id="span_viz"></div>
       </div>
-      <input type="button" id="restart_race" value="Restart animation" />
-    </div>
-    <div class="row viz" id="working_what_viz">
-      <h1>Who has worked on what</h1>
-      <div id="sankey"></div>
-    </div>
-    <div class="row viz">
-      <h1>Who has worked with who</h1>
-      <ul>
-        <li>Red link : Has been directed by</li>
-        <li>Yellow link : Directed</li>
-        <li>Blue link : Appear in a same movie</li>
-      </ul>
-      <div id="working_who_viz">
+      <div class="row viz" id="career_race_viz">
+        <h1>Bar race of the most prolific actors of each genre</h1>
+        <p>Again by looking at the four most common genres (comedy, thriller, drama and action), we offer you a dynamic view of the evolution of the most prominent actors over a span of 10 years. It is quite a close race at some points, and this really gives a sense of the rise and fall of some of the most famous names in the history of cinema!</p>
+        <div class="dropdown">
+          <button class="btn btn-secondary dropdown-toggle" id="actor_button" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Comedy
+          </button>
+          <div class="dropdown-menu" id="actor_dropdown" aria-labelledby="dropdownMenuButton">
+            <li><a  href="#actors_race_viz">Comedy</a></li>
+            <li><a  href="#actors_race_viz">Thriller</a></li>
+            <li><a  href="#actors_race_viz">Action</a></li>
+            <li><a  href="#actors_race_viz">Drama</a></li>
+          </div>
+        </div>
+        <div id="actors_race_viz"></div>
       </div>
-    </div>
-    <div class="row viz" id="careers_viz">
-      <h1>Career Peak of most prolific actors for each movie genre</h1>
-      <div class="dropdown">
-        <button class="btn btn-secondary dropdown-toggle" id="span_button" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-        Select View
-        </button>
-        <div class="dropdown-menu" id="span_dropdown" aria-labelledby="dropdownMenuButton">
-          <li><a  href="#span_viz">Time</a></li>
-          <li><a  href="#span_viz">Genre</a></li>
+      <div class="row viz" id="working_what_viz">
+        <h1>Who has worked on what</h1>
+        <p>Alfred Hitchcock is certainly the master of thriller and horror, but who are his counterparts for Comedy or Romance movies? Which genres famous actors like Samuel L. Jackson or Julianne Moore prefer? This diagram lets you explore the preferences of 15 actors and 15 film directors among the most prolific ones, in terms of the genres of movies they have worked on.</p>
+        <div id="sankey"></div>
+      </div>
+      <div class="row viz" id="circle_links">
+        <h1>Who has worked with who</h1>
+        <p>Staying in the topic of famous people in the history of people, would you like to know with which actors Robert de Niro has played, or with which film directors he has worked? Hover on the names to highlight their connections and find out if your favourite actor has been directed by your favourite film director. You might also discover that some well-known directors such as Hitchcock or Spielberg have actually also played in some movies.</p>
+        <ul>
+          <li>Red link : Has been directed by</li>
+          <li>Yellow link : Directed</li>
+          <li>Blue link : Appear in a same movie</li>
+        </ul>
+        <div id="working_who_viz">
         </div>
       </div>
-      <div id="span_viz"></div>
     </div>
-    <div class="row viz" id="career_race_viz">
-      <h1>Bar race of the most prolific actors of each genre</h1>
-      <div class="dropdown">
-        <button class="btn btn-secondary dropdown-toggle" id="actor_button" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-        Comedy
-        </button>
-        <div class="dropdown-menu" id="actor_dropdown" aria-labelledby="dropdownMenuButton">
-          <li><a  href="#actors_race_viz">Comedy</a></li>
-          <li><a  href="#actors_race_viz">Thriller</a></li>
-          <li><a  href="#actors_race_viz">Action</a></li>
-          <li><a  href="#actors_race_viz">Drama</a></li>
-        </div>
-      </div>
-      <div id="actors_race_viz"></div>
-    </div>
+
+    <div class="pell_col"></div>
   </div>
 
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>

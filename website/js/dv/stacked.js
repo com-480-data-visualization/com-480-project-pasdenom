@@ -9,6 +9,8 @@
       .append("svg")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
+        .style("display", "block")
+        .style("margin", "auto")
       .append("g")
         .attr("transform",
               "translate(" + margin.left + "," + margin.top + ")");
@@ -153,7 +155,6 @@
 
         // What to do when one group is hovered
         var highlight = function(d){
-          console.log(d)
           // reduce opacity of all groups
           d35.selectAll(".myArea").style("opacity", .1)
           // expect the one that is hovered

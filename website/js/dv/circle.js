@@ -54,7 +54,6 @@
         });
       });
 
-      console.log(map["root"])
       return map["root"]
 
     },
@@ -67,11 +66,8 @@
       cluster.forEach((item, i) => {
         if(item.depth == 2){
           map[item.key] = item
-          //console.log(item)
         }
       });
-
-console.log("------------------")
 
       casting.forEach((director, i) => {
         if (director.type == "cast"){
@@ -120,10 +116,9 @@ $(document).ready(function() {
       .style("left", "-160px")
       .style("width", w + "px")
       .style("height", h + "px")
-      //.style("position", "absolute")
+      .style("display", "block")
+      .style("margin", "auto")
       .style("-webkit-backface-visibility", "hidden");
-
-    console.log(d3.select("#working_who_viz"))
 
   var svgCircle = div.append("svg:svg")
       .attr("width", w)
@@ -136,15 +131,10 @@ $(document).ready(function() {
       .attr("d", d3.svg.arc().outerRadius(ry - 120).innerRadius(0).startAngle(0).endAngle(2 * Math.PI))
       .on("mousedown", mousedown);
 
-  //d3.json("flare-imports.json", function(classes) {
   d3.json("./data/casting.json", function(casting) {
 
     var nodes = cluster.nodes(packages.root(casting))
-
-        //nodes = packages.root(classes),
-        //links = packages.imports(nodes),
     var links = packages.imports(casting, nodes)
-    console.log(links)
     var splines = bundle(links);
 
 
@@ -156,11 +146,9 @@ $(document).ready(function() {
         .attr("class", function(d) { return "link " + d.type + " source-" + d.source.key + " target-" + d.target.key; })
         .attr("d", function(d, i) { return line(splines[i]); });
 
-      console.log(path)
 
     svgCircle.selectAll("g.node")
         .data(nodes.filter(function(n) { return !n.children; }))
-        //.data(nodes)
       .enter().append("svg:g")
         .attr("class", "node")
         .attr("id", function(d) { return "node-" + d.key; })
