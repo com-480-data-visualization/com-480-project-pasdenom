@@ -71,6 +71,32 @@
       </div>
     </div>
     <div class="row viz" id="careers_viz">
+      <h1>Span of Icons for each movie genre</h1>
+      <div class="dropdown">
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Select View
+        </button>
+        <div class="dropdown-menu" id="span_dropdown" aria-labelledby="dropdownMenuButton">
+          <li><a  href="#span_viz">Time</a></li>
+          <li><a  href="#span_viz">Genre</a></li>
+        </div>
+      </div>
+      <div id="span_viz"></div>
+    </div>
+    <div class="row viz" id="career_race_viz">
+      <h1>Bar race of the most prolific actors of each genre</h1>
+      <div class="dropdown">
+        <button class="btn btn-secondary dropdown-toggle"  type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Comedy
+        </button>
+        <div class="dropdown-menu" id="actor_dropdown" aria-labelledby="dropdownMenuButton">
+          <li><a  href="#actors_race_viz">Comedy</a></li>
+          <li><a  href="#actors_race_viz">Thriller</a></li>
+          <li><a  href="#actors_race_viz">Action</a></li>
+          <li><a  href="#actors_race_viz">Drama</a></li>
+        </div>
+      </div>
+      <div id="actors_race_viz"></div>
     </div>
   </div>
 
@@ -87,5 +113,7 @@
   <script src="./js/d3_old/d3.js"></script>
   <script src="./js/dv/circle_layout.js"></script>
   <script src="./js/dv/circle.js"></script>
+  <script src="./js/dv/span.js"></script>
+  <script src="./js/dv/race_actor.js"></script>
 </body>
 </html>

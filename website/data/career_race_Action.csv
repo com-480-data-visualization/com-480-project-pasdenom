@@ -1,0 +1,546 @@
+name,value,year,lastValue,rank
+Georges Méliès,2,1910,0,1
+Bleuette Bernon,2,1910,0,2
+Henri Delannoy,1,1910,0,3
+Brunnet,1,1910,0,4
+Victor André,1,1910,0,5
+Georges Méliès,2,1911,0,1
+Bleuette Bernon,2,1911,1,2
+Henri Delannoy,1,1911,2,3
+Brunnet,1,1911,3,4
+Victor André,1,1911,4,5
+Georges Méliès,2,1912,0,1
+Bleuette Bernon,2,1912,1,2
+Henri Delannoy,1,1912,2,3
+Brunnet,1,1912,3,4
+Victor André,1,1912,4,5
+Vivian Vaughan,1,1913,0,1
+Arthur White,1,1913,0,2
+James H. White,1,1913,0,3
+Bleuette Bernon,1,1913,1,4
+Georges Méliès,1,1913,0,5
+Salvatore Papa,1,1914,0,1
+Arturo Pirovano,1,1914,0,2
+Giuseppe de Liguoro,1,1914,0,3
+Pier Delle Vigne,1,1914,0,4
+Augusto Milla,1,1914,0,5
+Salvatore Papa,1,1915,0,1
+Arturo Pirovano,1,1915,1,2
+Giuseppe de Liguoro,1,1915,2,3
+Pier Delle Vigne,1,1915,3,4
+Augusto Milla,1,1915,4,5
+Salvatore Papa,1,1916,0,1
+Arturo Pirovano,1,1916,1,2
+Giuseppe de Liguoro,1,1916,2,3
+Pier Delle Vigne,1,1916,3,4
+Augusto Milla,1,1916,4,5
+Salvatore Papa,1,1917,0,1
+Arturo Pirovano,1,1917,1,2
+Giuseppe de Liguoro,1,1917,2,3
+Pier Delle Vigne,1,1917,3,4
+Augusto Milla,1,1917,4,5
+Salvatore Papa,1,1918,0,1
+Arturo Pirovano,1,1918,1,2
+Giuseppe de Liguoro,1,1918,2,3
+Pier Delle Vigne,1,1918,3,4
+Augusto Milla,1,1918,4,5
+Salvatore Papa,1,1919,0,1
+Arturo Pirovano,1,1919,1,2
+Giuseppe de Liguoro,1,1919,2,3
+Pier Delle Vigne,1,1919,3,4
+Augusto Milla,1,1919,4,5
+Salvatore Papa,1,1920,0,1
+Arturo Pirovano,1,1920,1,2
+Giuseppe de Liguoro,1,1920,2,3
+Pier Delle Vigne,1,1920,3,4
+Augusto Milla,1,1920,4,5
+Lillian Gish,2,1921,0,1
+Charles Hill Mailes,2,1921,0,2
+Douglas Fairbanks,2,1921,0,3
+Robert McKim,2,1921,0,4
+Duke R. Lee,2,1921,0,5
+Douglas Fairbanks,3,1922,2,1
+Lillian Gish,2,1922,0,2
+Charles Hill Mailes,2,1922,1,3
+Elmo Lincoln,2,1922,0,4
+Robert McKim,2,1922,3,5
+Douglas Fairbanks,4,1923,0,1
+Lillian Gish,2,1923,1,2
+Charles Hill Mailes,2,1923,2,3
+Sam De Grasse,2,1923,0,4
+Elmo Lincoln,2,1923,3,5
+Douglas Fairbanks,4,1924,0,1
+Sam De Grasse,2,1924,3,2
+Elmo Lincoln,2,1924,4,3
+Robert McKim,2,1924,0,4
+Duke R. Lee,2,1924,0,5
+Douglas Fairbanks,5,1925,0,1
+Wallace Beery,3,1925,0,2
+Sam De Grasse,2,1925,1,3
+Elmo Lincoln,2,1925,2,4
+Robert McKim,2,1925,3,5
+Douglas Fairbanks,6,1926,0,1
+Wallace Beery,4,1926,1,2
+Nelson McDowell,3,1926,0,3
+Sam De Grasse,2,1926,2,4
+Elmo Lincoln,2,1926,3,5
+Douglas Fairbanks,6,1927,0,1
+Wallace Beery,4,1927,1,2
+Duke R. Lee,3,1927,0,3
+Nelson McDowell,3,1927,2,4
+Nigel De Brulier,3,1927,0,5
+Douglas Fairbanks,7,1928,0,1
+Wallace Beery,4,1928,1,2
+Nigel De Brulier,4,1928,4,3
+Georg John,3,1928,0,4
+Nelson McDowell,3,1928,3,5
+Douglas Fairbanks,7,1929,0,1
+Wallace Beery,4,1929,1,2
+Nigel De Brulier,4,1929,2,3
+Georg John,3,1929,3,4
+Nelson McDowell,3,1929,4,5
+Douglas Fairbanks,8,1930,0,1
+Nigel De Brulier,5,1930,2,2
+Wallace Beery,4,1930,1,3
+Noble Johnson,4,1930,0,4
+Ramon Novarro,4,1930,0,5
+Douglas Fairbanks,7,1931,0,1
+Nigel De Brulier,5,1931,1,2
+John Wayne,5,1931,0,3
+Noble Johnson,4,1931,3,4
+Ramon Novarro,4,1931,4,5
+Douglas Fairbanks,6,1932,0,1
+John Wayne,5,1932,2,2
+Noble Johnson,4,1932,3,3
+Ramon Novarro,4,1932,4,4
+Charles Stevens,4,1932,0,5
+John Wayne,9,1933,1,1
+Douglas Fairbanks,5,1933,0,2
+Ramon Novarro,4,1933,3,3
+J. Farrell MacDonald,4,1933,0,4
+Charles Stevens,4,1933,4,5
+John Wayne,15,1934,0,1
+Lafe McKee,6,1934,0,2
+Douglas Fairbanks,5,1934,1,3
+Noah Beery,5,1934,0,4
+Warner Oland,5,1934,0,5
+John Wayne,24,1935,0,1
+Yakima Canutt,11,1935,0,2
+George 'Gabby' Hayes,8,1935,0,3
+Lafe McKee,7,1935,1,4
+Noah Beery,6,1935,3,5
+John Wayne,31,1936,0,1
+Yakima Canutt,14,1936,1,2
+George 'Gabby' Hayes,10,1936,2,3
+Lafe McKee,8,1936,3,4
+C. Aubrey Smith,8,1936,0,5
+John Wayne,30,1937,0,1
+Yakima Canutt,15,1937,1,2
+George 'Gabby' Hayes,10,1937,2,3
+Lafe McKee,8,1937,3,4
+C. Aubrey Smith,8,1937,4,5
+John Wayne,31,1938,0,1
+Yakima Canutt,15,1938,1,2
+C. Aubrey Smith,11,1938,4,3
+George 'Gabby' Hayes,10,1938,2,4
+Lafe McKee,8,1938,3,5
+John Wayne,31,1939,0,1
+Yakima Canutt,15,1939,1,2
+C. Aubrey Smith,12,1939,2,3
+George 'Gabby' Hayes,10,1939,3,4
+E.E. Clive,9,1939,0,5
+John Wayne,32,1940,0,1
+Yakima Canutt,16,1940,1,2
+C. Aubrey Smith,12,1940,2,3
+George 'Gabby' Hayes,10,1940,3,4
+Earl Dwire,9,1940,0,5
+John Wayne,32,1941,0,1
+Yakima Canutt,17,1941,1,2
+C. Aubrey Smith,13,1941,2,3
+Lane Chandler,13,1941,0,4
+Harry Cording,12,1941,0,5
+John Wayne,33,1942,0,1
+Yakima Canutt,16,1942,1,2
+Lane Chandler,13,1942,3,3
+Charles Middleton,13,1942,0,4
+Harry Cording,12,1942,4,5
+John Wayne,33,1943,0,1
+Yakima Canutt,15,1943,1,2
+Harry Cording,14,1943,4,3
+Lane Chandler,14,1943,2,4
+Charles Middleton,13,1943,3,5
+John Wayne,28,1944,0,1
+Charles Middleton,14,1944,4,2
+Yakima Canutt,13,1944,1,3
+Harry Cording,13,1944,2,4
+Lane Chandler,13,1944,3,5
+John Wayne,20,1945,0,1
+Charles Middleton,14,1945,1,2
+Lane Chandler,14,1945,4,3
+Harry Cording,13,1945,3,4
+Victor Kilian,12,1945,0,5
+John Wayne,15,1946,0,1
+Lane Chandler,14,1946,2,2
+Charles Middleton,13,1946,1,3
+John Carradine,12,1946,0,4
+Victor Kilian,12,1946,4,5
+John Wayne,14,1947,0,1
+Lane Chandler,13,1947,1,2
+Hank Bell,13,1947,0,3
+Charles Middleton,12,1947,2,4
+John Carradine,12,1947,3,5
+Hank Bell,15,1948,2,1
+John Wayne,15,1948,0,2
+Ward Bond,14,1948,0,3
+Lane Chandler,13,1948,1,4
+Charles Middleton,12,1948,3,5
+John Wayne,19,1949,1,1
+Ward Bond,14,1949,2,2
+Hank Bell,14,1949,0,3
+Charles Middleton,12,1949,4,4
+Victor Kilian,11,1949,0,5
+John Wayne,18,1950,0,1
+Hank Bell,13,1950,2,2
+Ward Bond,11,1950,1,3
+Randolph Scott,10,1950,0,4
+Victor Kilian,10,1950,4,5
+John Wayne,17,1951,0,1
+Randolph Scott,11,1951,3,2
+Ward Bond,10,1951,2,3
+Hank Bell,9,1951,1,4
+Tom Tyler,9,1951,0,5
+John Wayne,16,1952,0,1
+Randolph Scott,12,1952,1,2
+George 'Gabby' Hayes,9,1952,0,3
+Paul Fix,9,1952,0,4
+Ward Bond,9,1952,2,5
+Ray Teal,14,1953,0,1
+Randolph Scott,13,1953,1,2
+John Wayne,12,1953,0,3
+Tom Tyler,9,1953,0,4
+George 'Gabby' Hayes,9,1953,2,5
+Randolph Scott,14,1954,1,1
+Ray Teal,14,1954,0,2
+John Wayne,13,1954,2,3
+Ward Bond,11,1954,0,4
+Paul Fix,10,1954,0,5
+Randolph Scott,15,1955,0,1
+Morris Ankrum,15,1955,0,2
+Ray Teal,15,1955,1,3
+John Wayne,12,1955,2,4
+Ward Bond,11,1955,3,5
+Ray Teal,17,1956,2,1
+Randolph Scott,16,1956,0,2
+Morris Ankrum,15,1956,1,3
+Jack Elam,11,1956,0,4
+Ward Bond,10,1956,4,5
+Ray Teal,17,1957,0,1
+Randolph Scott,17,1957,1,2
+Morris Ankrum,16,1957,2,3
+Harry Carey, Jr.,13,1957,0,4
+John Wayne,12,1957,0,5
+Ray Teal,19,1958,0,1
+Randolph Scott,18,1958,1,2
+Morris Ankrum,18,1958,2,3
+Harry Carey, Jr.,13,1958,3,4
+Jack Elam,13,1958,0,5
+Morris Ankrum,20,1959,2,1
+Ray Teal,20,1959,0,2
+Randolph Scott,17,1959,1,3
+Jay C. Flippen,13,1959,0,4
+Robert J. Wilke,13,1959,0,5
+Ray Teal,20,1960,1,1
+Morris Ankrum,19,1960,0,2
+Randolph Scott,18,1960,2,3
+Robert J. Wilke,13,1960,4,4
+Jack Elam,13,1960,0,5
+Morris Ankrum,18,1961,1,1
+Ray Teal,17,1961,0,2
+Randolph Scott,17,1961,2,3
+Robert J. Wilke,15,1961,3,4
+Jack Elam,13,1961,4,5
+Morris Ankrum,16,1962,0,1
+Randolph Scott,14,1962,2,2
+Ray Teal,14,1962,1,3
+Robert J. Wilke,14,1962,3,4
+Jack Elam,14,1962,4,5
+Morris Ankrum,15,1963,0,1
+Randolph Scott,13,1963,1,2
+Lee Van Cleef,12,1963,0,3
+Jack Elam,12,1963,4,4
+Robert J. Wilke,12,1963,3,5
+Denver Pyle,12,1964,0,1
+Randolph Scott,12,1964,1,2
+Morris Ankrum,11,1964,0,3
+Robert J. Wilke,11,1964,4,4
+John Wayne,11,1964,0,5
+Denver Pyle,12,1965,0,1
+John Wayne,12,1965,4,2
+Randolph Scott,11,1965,1,3
+Robert J. Wilke,10,1965,3,4
+Richard Widmark,10,1965,0,5
+John Wayne,13,1966,1,1
+Shintarô Katsu,13,1966,0,2
+Denver Pyle,11,1966,0,3
+Richard Widmark,10,1966,4,4
+Lee Van Cleef,10,1966,0,5
+Shintarô Katsu,14,1967,1,1
+John Wayne,12,1967,0,2
+Denver Pyle,10,1967,2,3
+Lee Van Cleef,9,1967,4,4
+James Stewart,8,1967,0,5
+Shintarô Katsu,17,1968,0,1
+John Wayne,11,1968,1,2
+Audie Murphy,9,1968,0,3
+Richard Widmark,9,1968,0,4
+Giuliano Gemma,9,1968,0,5
+Shintarô Katsu,20,1969,0,1
+John Wayne,12,1969,1,2
+Fernando Sancho,10,1969,0,3
+Giuliano Gemma,9,1969,4,4
+Giovanni Ivan Scratuglia,9,1969,0,5
+Shintarô Katsu,20,1970,0,1
+John Wayne,13,1970,1,2
+Fernando Sancho,10,1970,2,3
+Woody Strode,9,1970,0,4
+Frank Wolff,9,1970,0,5
+Shintarô Katsu,23,1971,0,1
+John Wayne,13,1971,1,2
+John Anderson,10,1971,0,3
+Lee Van Cleef,10,1971,0,4
+Ku Feng,10,1971,0,5
+Shintarô Katsu,24,1972,0,1
+John Wayne,13,1972,1,2
+Lee Van Cleef,13,1972,3,3
+Fernando Sancho,12,1972,0,4
+Aldo Sambrell,12,1972,0,5
+Shintarô Katsu,25,1973,0,1
+Lee Van Cleef,13,1973,2,2
+Aldo Sambrell,13,1973,4,3
+John Wayne,12,1973,1,4
+Klaus Kinski,12,1973,0,5
+Shintarô Katsu,24,1974,0,1
+Aldo Sambrell,16,1974,2,2
+John Wayne,13,1974,3,3
+Lee Van Cleef,13,1974,1,4
+Klaus Kinski,12,1974,4,5
+Shintarô Katsu,21,1975,0,1
+Aldo Sambrell,16,1975,1,2
+Lee Van Cleef,13,1975,3,3
+John Wayne,12,1975,2,4
+Fernando Sancho,12,1975,0,5
+Shintarô Katsu,18,1976,0,1
+Aldo Sambrell,15,1976,1,2
+Lee Van Cleef,13,1976,2,3
+John Wayne,12,1976,3,4
+Ku Feng,11,1976,0,5
+Shintarô Katsu,17,1977,0,1
+Lee Van Cleef,13,1977,2,2
+Aldo Sambrell,12,1977,1,3
+Ku Feng,12,1977,4,4
+John Wayne,12,1977,3,5
+Shintarô Katsu,14,1978,0,1
+Ku Feng,14,1978,3,2
+Lee Van Cleef,12,1978,1,3
+John Wayne,11,1978,4,4
+Aldo Sambrell,10,1978,2,5
+Ku Feng,15,1979,1,1
+Lau Kar-Wing,12,1979,0,2
+Lee Van Cleef,12,1979,2,3
+Lo Lieh,12,1979,0,4
+Chan Shen,12,1979,0,5
+Ku Feng,15,1980,0,1
+Ti Lung,12,1980,0,2
+Chan Shen,12,1980,4,3
+Jackie Chan,12,1980,0,4
+Lee Van Cleef,11,1980,2,5
+Chan Shen,13,1981,2,1
+Ku Feng,13,1981,0,2
+Wong Ching-Ho,13,1981,0,3
+Johnny Wang Lung-Wei,13,1981,0,4
+Jackie Chan,12,1981,3,5
+Wong Ching-Ho,15,1982,2,1
+Johnny Wang Lung-Wei,15,1982,3,2
+Wang Han-Chen,14,1982,0,3
+Chan Shen,13,1982,0,4
+Ku Feng,13,1982,1,5
+Johnny Wang Lung-Wei,15,1983,1,1
+Ku Feng,15,1983,4,2
+Wang Han-Chen,14,1983,2,3
+Chan Shen,13,1983,3,4
+Wong Ching-Ho,13,1983,0,5
+Ku Feng,16,1984,1,1
+Johnny Wang Lung-Wei,15,1984,0,2
+Wang Han-Chen,14,1984,2,3
+Wong Ching-Ho,13,1984,4,4
+Lam Fai-Wong,12,1984,0,5
+Ku Feng,16,1985,0,1
+Johnny Wang Lung-Wei,15,1985,1,2
+Wang Han-Chen,14,1985,2,3
+Wong Ching-Ho,14,1985,3,4
+Cheng Miu,12,1985,0,5
+Ku Feng,16,1986,0,1
+Johnny Wang Lung-Wei,16,1986,1,2
+Wong Ching-Ho,15,1986,3,3
+Wang Han-Chen,14,1986,2,4
+Cheng Miu,13,1986,4,5
+Johnny Wang Lung-Wei,14,1987,1,1
+Ku Feng,13,1987,0,2
+Wong Ching-Ho,13,1987,2,3
+Cheng Miu,12,1987,4,4
+Wang Han-Chen,12,1987,3,5
+Johnny Wang Lung-Wei,13,1988,0,1
+Wong Ching-Ho,13,1988,2,2
+Ku Feng,11,1988,1,3
+Philip Kwok Chun-Fung,10,1988,0,4
+Cheng Miu,10,1988,3,5
+Wong Ching-Ho,9,1989,1,1
+Johnny Wang Lung-Wei,9,1989,0,2
+Wong Lik,8,1989,0,3
+Ku Feng,8,1989,2,4
+Gordon Liu Chia-Hui,8,1989,0,5
+Wong Ching-Ho,8,1990,0,1
+Johnny Wang Lung-Wei,8,1990,1,2
+Gordon Liu Chia-Hui,8,1990,4,3
+Wong Lik,7,1990,2,4
+Cheng Miu,7,1990,0,5
+Masako Nozawa,8,1991,0,1
+Hirotaka Suzuoki,8,1991,0,2
+John Rhys-Davies,7,1991,0,3
+Pat Roach,7,1991,0,4
+Varvara Dvalishvili,7,1991,0,5
+Masako Nozawa,12,1992,0,1
+Hiromi Tsuru,8,1992,0,2
+Hirotaka Suzuoki,8,1992,1,3
+Raymond Burr,8,1992,0,4
+Barbara Hale,8,1992,0,5
+Masako Nozawa,16,1993,0,1
+Mayumi Tanaka,10,1993,0,2
+Toshio Furukawa,10,1993,0,3
+Raymond Burr,9,1993,3,4
+Barbara Hale,9,1993,4,5
+Masako Nozawa,22,1994,0,1
+Toshio Furukawa,14,1994,2,2
+Mayumi Tanaka,13,1994,1,3
+Naoko Watanabe,12,1994,0,4
+Ryou Horikawa,12,1994,0,5
+Masako Nozawa,24,1995,0,1
+Mayumi Tanaka,14,1995,2,2
+Toshio Furukawa,14,1995,1,3
+Naoko Watanabe,12,1995,3,4
+Ryou Horikawa,12,1995,4,5
+Masako Nozawa,30,1996,0,1
+Mayumi Tanaka,15,1996,1,2
+Ryou Horikawa,14,1996,4,3
+Toshio Furukawa,14,1996,2,4
+Hiromi Tsuru,12,1996,0,5
+Masako Nozawa,30,1997,0,1
+Mayumi Tanaka,14,1997,1,2
+Ryou Horikawa,14,1997,2,3
+Toshio Furukawa,14,1997,3,4
+Hiromi Tsuru,12,1997,4,5
+Masako Nozawa,29,1998,0,1
+Toshio Furukawa,14,1998,3,2
+Ryou Horikawa,13,1998,2,3
+Mayumi Tanaka,13,1998,1,4
+Daisuke Gouri,11,1998,0,5
+Masako Nozawa,29,1999,0,1
+Toshio Furukawa,12,1999,1,2
+Mayumi Tanaka,12,1999,3,3
+Daisuke Gouri,11,1999,4,4
+Hiromi Tsuru,11,1999,0,5
+Masako Nozawa,29,2000,0,1
+Mayumi Tanaka,12,2000,2,2
+Hiromi Tsuru,11,2000,4,3
+Toshio Furukawa,10,2000,1,4
+Daisuke Gouri,10,2000,3,5
+Masako Nozawa,23,2001,0,1
+Mayumi Tanaka,10,2001,1,2
+Jeff Bennett,10,2001,0,3
+Jim Cummings,10,2001,0,4
+Frank Welker,9,2001,0,5
+Masako Nozawa,19,2002,0,1
+Jeff Bennett,12,2002,2,2
+Jim Cummings,11,2002,3,3
+Ryou Horikawa,9,2002,0,4
+Daisuke Gouri,9,2002,0,5
+Masako Nozawa,15,2003,0,1
+Jeff Bennett,13,2003,1,2
+Jim Cummings,12,2003,2,3
+Veronica Taylor,10,2003,0,4
+Rachael Lillis,10,2003,0,5
+Jim Cummings,14,2004,2,1
+Jeff Bennett,13,2004,1,2
+Rob Paulsen,10,2004,0,3
+Veronica Taylor,10,2004,3,4
+Rachael Lillis,10,2004,4,5
+Jim Cummings,12,2005,0,1
+Jeff Bennett,11,2005,1,2
+Veronica Taylor,11,2005,3,3
+Rachael Lillis,11,2005,4,4
+Rob Paulsen,9,2005,2,5
+Veronica Taylor,12,2006,2,1
+Rachael Lillis,12,2006,3,2
+Jeff Bennett,10,2006,1,3
+Jim Cummings,9,2006,0,4
+Ikue Otani,9,2006,0,5
+Veronica Taylor,12,2007,0,1
+Rachael Lillis,12,2007,1,2
+Jeff Bennett,10,2007,2,3
+Ikue Otani,9,2007,0,4
+Tara Strong,9,2007,0,5
+Veronica Taylor,12,2008,0,1
+Rachael Lillis,12,2008,1,2
+Jeff Bennett,10,2008,2,3
+Ikue Otani,10,2008,0,4
+Tara Strong,10,2008,4,5
+Veronica Taylor,12,2009,0,1
+Rachael Lillis,12,2009,1,2
+Jeff Bennett,11,2009,2,3
+Ikue Otani,10,2009,0,4
+Tara Strong,10,2009,4,5
+Jeff Bennett,12,2010,2,1
+Veronica Taylor,11,2010,0,2
+Rachael Lillis,11,2010,1,3
+Tara Strong,11,2010,4,4
+Ikue Otani,10,2010,0,5
+Jeff Bennett,15,2011,0,1
+Tara Strong,12,2011,3,2
+Ikue Otani,11,2011,0,3
+Kevin Michael Richardson,11,2011,0,4
+Samuel L. Jackson,10,2011,0,5
+Samuel L. Jackson,13,2012,4,1
+Tara Strong,13,2012,1,2
+Jeff Bennett,13,2012,0,3
+John Hurt,12,2012,0,4
+Grey Griffin,12,2012,0,5
+Grey Griffin,16,2013,4,1
+Tara Strong,14,2013,1,2
+Jeff Bennett,14,2013,2,3
+John DiMaggio,13,2013,0,4
+Samuel L. Jackson,13,2013,0,5
+Grey Griffin,20,2014,0,1
+Ron Perlman,14,2014,0,2
+Jeff Bennett,14,2014,2,3
+Stan Lee,13,2014,0,4
+Samuel L. Jackson,13,2014,4,5
+Grey Griffin,23,2015,0,1
+Dee Bradley Baker,16,2015,0,2
+Jeff Bennett,15,2015,2,3
+Samuel L. Jackson,15,2015,4,4
+Stan Lee,15,2015,3,5
+Grey Griffin,28,2016,0,1
+Dee Bradley Baker,19,2016,1,2
+Fred Tatasciore,17,2016,0,3
+Kevin Michael Richardson,17,2016,0,4
+Stan Lee,16,2016,4,5
+Grey Griffin,27,2017,0,1
+Dee Bradley Baker,21,2017,1,2
+Stan Lee,19,2017,4,3
+Kevin Michael Richardson,17,2017,3,4
+Fred Tatasciore,17,2017,2,5
+Grey Griffin,26,2018,0,1
+Dee Bradley Baker,21,2018,1,2
+Stan Lee,18,2018,2,3
+Fred Tatasciore,17,2018,4,4
+Kevin Michael Richardson,16,2018,3,5
