@@ -1,7 +1,7 @@
 
     // set the dimensions and margins of the graph
-    var margin = {top: 60, right: 230, bottom: 50, left: 100},
-        width = 1500 - margin.left - margin.right,
+    var margin = {top: 60, right: 0, bottom: 50, left: 0},
+        width = 1100 - margin.left - margin.right,
         height = 800 - margin.top - margin.bottom;
 
     // append the svgStacked object to the body of the page
@@ -178,7 +178,7 @@
           .data(keys)
           .enter()
           .append("rect")
-            .attr("x", 1100)
+            .attr("x", 0)
             .attr("y", function(d,i){ return 10 + i*(size+5)}) // 100 is where the first dot appears. 25 is the distance between dots
             .attr("width", size)
             .attr("height", size)
@@ -191,7 +191,7 @@
           .data(keys)
           .enter()
           .append("text")
-            .attr("x", 1100 + size*1.2)
+            .attr("x", 0 + size*1.2)
             .attr("y", function(d,i){ return 10 + i*(size+5) + (size/2)}) // 100 is where the first dot appears. 25 is the distance between dots
             .style("fill", function(d){ return color(d)})
             .text(function(d){ return d})
