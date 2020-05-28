@@ -1,6 +1,6 @@
 // Feel free to change or delete any of the code you see in this editor!
 var svgRace = d35.select("#race_genres_viz").append("svg")
-  .attr("width", 960)
+  .attr("width", 1100)
   .attr("height", 600)
   .style("display", "block")
   .style("margin", "auto");

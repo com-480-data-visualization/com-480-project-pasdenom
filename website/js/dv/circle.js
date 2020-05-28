@@ -90,7 +90,7 @@
 
 $(document).ready(function() {
   var w = 1100,
-      h = 1000,
+      h = 800,
       rx = w / 2,
       ry = h / 2,
       m0,
@@ -115,14 +115,14 @@ $(document).ready(function() {
       .style("top", "-80px")
       .style("left", "-160px")
       .style("width", w + "px")
-      .style("height", h + "px")
+      .style("height", h + 100 + "px")
       .style("display", "block")
       .style("margin", "auto")
       .style("-webkit-backface-visibility", "hidden");
 
   var svgCircle = div.append("svg:svg")
       .attr("width", w)
-      .attr("height", w)
+      .attr("height", h+ 100)
     .append("svg:g")
       .attr("transform", "translate(" + rx + "," + ry + ")");
 

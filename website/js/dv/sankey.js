@@ -1,5 +1,5 @@
 var marginSankey = {top: 1, right: 1, bottom: 6, left: 1},
-    widthSankey = 1500 - marginSankey.left - marginSankey.right,
+    widthSankey = 1200 - marginSankey.left - marginSankey.right,
     heightSankey = 1000 - marginSankey.top - marginSankey.bottom;
 
 var formatNumber = d35.format(",.0f"),

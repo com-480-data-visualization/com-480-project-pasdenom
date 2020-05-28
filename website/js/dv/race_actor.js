@@ -27,7 +27,7 @@ choose_actor_race = function () {
     var actortickDuration = 500;
 
     var svgRaceActors = d35.select("#actors_race_viz").append("svg")
-    .attr("width", 960)
+    .attr("width", 1100)
     .attr("height", 600)
     .style("display", "block")
     .style("margin", "auto");

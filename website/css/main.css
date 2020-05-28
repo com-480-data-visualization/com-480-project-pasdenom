@@ -93,7 +93,7 @@ pre {
 }
 
 .pell_col{
-  height: 6600px;
+  height: 6500px;
   width : 10%;
   background-color: black;
   margin: auto;
@@ -103,7 +103,7 @@ pre {
 }
 
 #all_viz{
-  height: 6600px;
+  height: 6500px;
   width: 80%;
   float: left;
   padding-left: 30px;

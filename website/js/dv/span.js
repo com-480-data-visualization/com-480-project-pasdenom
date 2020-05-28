@@ -40,6 +40,8 @@ draw_span = function () {
   };
 
 
+  width = 1100
+
   getRect = function (d) {
     const el = d35.select(this);
     const sx = x(d.start);
