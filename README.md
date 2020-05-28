@@ -26,6 +26,14 @@ You can find the project website at [this address](https://com-480-data-visualiz
 
 **80% of the final grade**
 
+### Technical aspects
+
+For the implementation we used different tools :
+* Bootstrap : For the website structure we used bootstrap. Using this framework we were able to present a responsive and dynamic interface.
+* d3 : All our visualization are made with d3.js. We integrated an old version of the framework for a specific visualization because the example where we start was not with the last version and it could be painful to re-implement it from scratch.
+* JQuery : Mandatory to be able to use bootstrap and d3.
+* Python : For the processing of the dataset we used python. Different notebooks can be found on our git repository.
+
 You can find the different parts there :
 * [Website](https://com-480-data-visualization.github.io/com-480-project-pasdenom/website/)
 * [Process Book](https://com-480-data-visualization.github.io/com-480-project-pasdenom/Milestone3/ProcessBook_HistoryOfCinema.pdf)
