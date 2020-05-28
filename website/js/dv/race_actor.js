@@ -1,22 +1,18 @@
 let selectGenre = "Comedy"
 
+//udate the dropdown menu and triggers the change of the svg element
 $(function () {
     $("#actor_dropdown li a").click(function () {
-        $(".btn").text($(this).text());
-        $(".btn").val($(this).text());
+        $("#actor_button").text($(this).text());
+        $("#actor_button").val($(this).text());
         selectGenre = $(this).text();
 
         choose_actor_race();
     });
 });
 
+//triggers the initial drawing of the svg
 $(function () { choose_actor_race(); });
-
-/*let title = svgRaceActors.append('text')
- .attr('class', 'title')
- .attr('y', 24)
- .html('18 years of Interbrand’s Top Global Brands');*/
-
 
 let actor_race_ticker;
 let draw_actor_race;

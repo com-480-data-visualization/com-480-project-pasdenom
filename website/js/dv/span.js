@@ -1,71 +1,70 @@
 
 let sorting = 'time'
-
+//udate the dropdown menu and triggers the change of the svg element
 $(function () {
   $("#span_dropdown li a").click(function () {
-    $(".btn").text($(this).text());
-    $(".btn").val($(this).text());
+    $("#span_button").text($(this).text());
+    $("#span_button").val($(this).text());
     sorting = $(this).text();
     draw_span();
   });
 });
 
+//triggers the initial drawing of the svg
 $(function () { draw_span(); });
 
-formatDate = function (d) {
-  return d;
-};
 
-getTooltipContent = function (d) {
-  return `<b>${d.actor}</b>
+draw_span = function () {
+
+  //hepler functions to create the tooltip element
+  getTooltipContent = function (d) {
+    return `<b>${d.actor}</b>
   <br/>
   <b style="color:${d.color.darker()}">${d.genre}</b>
   <br/>
-  ${formatDate(parseInt(d.start))} - ${formatDate(parseInt(d.end))}
+  ${parseInt(d.start)} - ${parseInt(d.end)}
   `
-};
+  };
+  createTooltip = function (el) {
+    el
+      .style("position", "absolute")
+      .style("pointer-events", "none")
+      .style("top", 0)
+      .style("opacity", 0)
+      .style("background", "white")
+      .style("border-radius", "5px")
+      .style("box-shadow", "0 0 10px rgba(0,0,0,.25)")
+      .style("padding", "10px")
+      .style("line-height", "1.3")
+      .style("font", "11px sans-serif")
+  };
 
-createTooltip = function (el) {
-  el
-    .style("position", "absolute")
-    .style("pointer-events", "none")
-    .style("top", 0)
-    .style("opacity", 0)
-    .style("background", "white")
-    .style("border-radius", "5px")
-    .style("box-shadow", "0 0 10px rgba(0,0,0,.25)")
-    .style("padding", "10px")
-    .style("line-height", "1.3")
-    .style("font", "11px sans-serif")
-};
 
-getRect = function (d) {
-  const el = d35.select(this);
-  const sx = x(d.start);
-  const w = x(d.end) - x(d.start);
-  const isLabelRight = (sx > width / 2 ? sx + w < width : sx - w > 0);
+  getRect = function (d) {
+    const el = d35.select(this);
+    const sx = x(d.start);
+    const w = x(d.end) - x(d.start);
+    const isLabelRight = (sx > width / 2 ? sx + w < width : sx - w > 0);
 
-  el.style("cursor", "pointer")
+    el.style("cursor", "pointer")
 
-  el
-    .append("rect")
-    .attr("x", sx)
-    .attr("height", y.bandwidth())
-    .attr("width", w)
-    .attr("fill", d.color);
+    el
+      .append("rect")
+      .attr("x", sx)
+      .attr("height", y.bandwidth())
+      .attr("width", w)
+      .attr("fill", d.color);
 
-  el
-    .append("text")
-    .text(d.actor)
-    .attr("x", isLabelRight ? sx - 5 : sx + w + 5)
-    .attr("y", 2.5)
-    .attr("fill", "black")
-    .style("text-anchor", isLabelRight ? "end" : "start")
-    .style("dominant-baseline", "hanging")
-    .style("font", "11px sans-serif");
-};
-
-draw_span = function () {
+    el
+      .append("text")
+      .text(d.actor)
+      .attr("x", isLabelRight ? sx - 5 : sx + w + 5)
+      .attr("y", 2.5)
+      .attr("fill", "black")
+      .style("text-anchor", isLabelRight ? "end" : "start")
+      .style("dominant-baseline", "hanging")
+      .style("font", "11px sans-serif");
+  };
 
   csv = d35.csv("./data/span.csv").then(function (data) {
 
@@ -97,11 +96,9 @@ draw_span = function () {
 
     let axisBottom = d35.axisBottom(x)
       .tickPadding(2)
-      .tickFormat(formatDate)
 
     let axisTop = d35.axisTop(x)
       .tickPadding(2)
-      .tickFormat(formatDate)
 
     color = d35.scaleOrdinal(d35.schemeSet2).domain(genres)
 
