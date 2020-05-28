@@ -6,7 +6,7 @@ $(function () {
         $("#actor_button").text($(this).text());
         $("#actor_button").val($(this).text());
         selectGenre = $(this).text();
-
+        actor_race_ticker.stop();
         choose_actor_race();
     });
 });
@@ -37,6 +37,8 @@ choose_actor_race = function () {
         var top_n = 6;
         let year = 1910;
         height = 600
+
+        actortickDuration = 500;
 
         let subTitle = svgRaceActors.append("text")
             .attr("class", "subTitle")
